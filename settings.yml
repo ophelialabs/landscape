@@ -4,7 +4,14 @@ foundation: Multi-Cloud Platform
 
 url: http://127.0.0.1:8000
 
-base_path: /Landscape
+# Base path (optional)
+#
+# Base path where the landscape will be hosted. By default the generated
+# landscape is prepared to be hosted at the root of the domain. However, if the
+# landscape will be hosted in a subpath, this value must be set accordingly.
+#
+# base_path: /<BASE_PATH>
+#
 
 colors:
   color1: "rgba(13, 110, 253, 1)"       # Primary Blue
