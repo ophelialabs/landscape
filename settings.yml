@@ -2,7 +2,9 @@
 
 foundation: Multi-Cloud Platform
 
-url: https://landscape.ophelia.dev/cloud
+url: http://127.0.0.1:8000
+
+base_path: /Landscape
 
 colors:
   color1: "rgba(13, 110, 253, 1)"       # Primary Blue
@@ -47,4 +49,90 @@ header:
     github: "https://github.com"
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
+# Images (optional)
+#
+# Urls of some images used in the landscape UI.
+#
+# images:
+#   favicon: <FAVICON_URL>
+#   open_graph: <OPEN_GRAPH_IMAGE_URL>
+#
+
+# Name of the members category (optional)
+#
+# Landscapes usually have a special category dedicated to the members of the
+# corresponding foundation. It is possible to use any name for that category,
+# but it is important that we define it here as there are some special
+# operations that depend on it.
+#
+# members_category: <CATEGORY_NAME>
+#
+
+# Osano (optional)
+#
+# Osano cookies consent form configuration. When the Osano configuration is
+# provided, some additional code will be injected into the web application.
+#
+# The `customer_id` and `customer_configuration_id` fields values can be
+# obtained from the url in the configuration script code available on the Osano
+# site:
+#
+#   https://cmp.osano.com/<CUSTOMER_ID>/<CUSTOMER_CONFIGURATION_ID>/osano.js
+#
+# osano:
+#   customer_id: <CUSTOMER_ID>
+#   customer_configuration_id: <CUSTOMER_CONFIGURATION_ID>
+#
+
+# Screenshot width (optional)
+#
+# Width of the landscape screenshots automatically generated (in pixels).
+# Screenshots won't be taken if this value is not provided.
+#
+
 screenshot_width: 1600
+
+
+# TAGs (optional)
+#
+# Projects items can specify which TAG owns them in the `landscape.yml` file
+# (by using the `tag` field in the `extra` item's section). However, sometimes
+# this information is not available at the item level. This configuration
+# section provides a mechanism to automatically asign a TAG to projects items
+# based on the categories and subcategories they belong to.
+#
+# For example, we can define that all projects in the category <CATEGORY1> are
+# owned by <TAG1>. When the items are processed, the corresponding TAG will be
+# set in the items that match the rule defined. The TAG defined at the item
+# level always takes precedence, so when it's present it won't be replaced.
+#
+# NOTE: TAGs names should only use lowercase case letters and hyphens (no
+# spaces or other characters), and should not be prefixed with "tag". The
+# subcategories field is optional and, when omitted, all of them will be
+# included.
+#
+# tags:
+#   <TAG1>:
+#     - category: <CATEGORY1>
+#       subcategories:
+#         - <SUBCATEGORY1>
+#         - <SUBCATEGORY2>
+#   <TAG2>:
+#     - category: <CATEGORY2>
+#
+
+# Upcoming event (optional)
+#
+# This section allows configuring an upcoming event that will be featured on
+# the landscape web application. Expired events won't be displayed.
+#
+# upcoming_event:
+#   name: <NAME>         # Event name (required)
+#   start: <START_DATE>  # Start date: (required, format: YYYY-MM-DD)
+#   end: <END_DATE>      # End date: (required, format: YYYY-MM-DD)
+#   banner_url: <URL>    # Event banner image url (required, recommended dimensions: 2400x300)
+#   details_url: <URL>   # Event details URL (required)
+#   cta_text: <TEXT>     # Call to action text (required)
+#   description: <TEXT>  # Short event description (optional)
+#   timezone: <TZ>      # Timezone for start/end dates (optional, default: UTC)
+#   location: <LOC>     # Event location (optional)
