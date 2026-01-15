@@ -1,60 +1,50 @@
-# Landscape2 settings
-#
-# This settings file allows customizing some aspects of the landscape.
-#
-# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/settings.yml
+# Unified Cloud Landscape Settings
 
-foundation: DEMO
+foundation: Multi-Cloud Platform
 
-url: http://127.0.0.1:8000
+url: https://landscape.ophelia.dev/cloud
 
 colors:
-  color1: "rgba(0, 107, 204, 1)"
-  color2: "rgba(255, 0, 170, 1)"
-  color3: "rgba(96, 149, 214, 1)"
-  color4: "rgba(0, 42, 81, 0.7)"
-  color5: "rgba(1, 107, 204, 0.7)"
-  color6: "rgba(0, 42, 81, 0.7)"
-  color7: "rgba(180, 219, 255, 1)"
+  color1: "rgba(13, 110, 253, 1)"       # Primary Blue
+  color2: "rgba(255, 193, 7, 1)"        # Primary Yellow
+  color3: "rgba(32, 201, 51, 1)"        # Success Green
+  color4: "rgba(13, 110, 253, 0.7)"     # Primary Blue Transparent
+  color5: "rgba(255, 193, 7, 0.7)"      # Primary Yellow Transparent
+  color6: "rgba(32, 201, 51, 0.7)"      # Success Green Transparent
+  color7: "rgba(200, 220, 255, 1)"      # Very Light Blue
 
-description: Demo landscape for local development.
+description: Unified landscape of major cloud providers (AWS, Azure, GCP, OCI) with cross-cloud services and capabilities. Designed for easy expansion with additional providers.
 
 featured_items:
-  - field: maturity
+  - field: project
     options:
       - value: graduated
         order: 1
-        label: Graduated
+        label: Core Services
 
 footer:
   links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-    flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
+    github: "https://github.com"
+    homepage: "https://cloud.google.com"
+    twitter: "https://twitter.com/cloudnative"
   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
 grid_items_size: large
 
 groups:
-  - name: Some categories
+  - name: Cloud Providers
     categories:
-      - Category 1
-      - Category 2
-  - name: Only category 2
+      - AWS
+      - Microsoft Azure
+      - Google Cloud Platform
+      - Oracle Cloud Infrastructure
+  - name: Cross-Cloud Capabilities
     categories:
-      - Category 2
+      - Cross-Cloud Services
 
 header:
   links:
-    github: "https://github.com/cncf/landscape2"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+    github: "https://github.com"
+  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
-screenshot_width: 1500
+screenshot_width: 1600

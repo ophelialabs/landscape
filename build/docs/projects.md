@@ -2,7 +2,15 @@
 
 | **project_name** | **maturity** | **accepted_date** | **sandbox_date** | **incubating_date** | **graduated_date** | **archived_date** | **num_security_audits** | **last_security_audit_date** |
 | :--------------- | :----------: | :---------------: | :--------------: | :-----------------: | :----------------: | :---------------: | :---------------------: | :--------------------------: |
-[item 1](https://cncf.io) | graduated |  |  |  |  |  | 0 |  |
-[item 2](https://cncf.io) | sandbox |  |  |  |  |  | 0 |  |
-[item 6](https://cncf.io) | graduated |  |  |  |  |  | 0 |  |
-[item 7](https://cncf.io) | sandbox |  |  |  |  |  | 0 |  |
+[amazon ec2](https://aws.amazon.com/ec2/) | graduated |  |  |  |  |  | 0 |  |
+[amazon rds](https://aws.amazon.com/rds/) | graduated |  |  |  |  |  | 0 |  |
+[amazon s3](https://aws.amazon.com/s3/) | graduated |  |  |  |  |  | 0 |  |
+[autonomous database](https://www.oracle.com/cloud/database/autonomous-database/) | graduated |  |  |  |  |  | 0 |  |
+[azure blob storage](https://azure.microsoft.com/services/storage/blobs/) | graduated |  |  |  |  |  | 0 |  |
+[azure sql database](https://azure.microsoft.com/services/sql-database/) | graduated |  |  |  |  |  | 0 |  |
+[azure virtual machines](https://azure.microsoft.com/services/virtual-machines/) | graduated |  |  |  |  |  | 0 |  |
+[cloud sql](https://cloud.google.com/sql) | graduated |  |  |  |  |  | 0 |  |
+[google cloud storage](https://cloud.google.com/storage) | graduated |  |  |  |  |  | 0 |  |
+[google compute engine](https://cloud.google.com/compute) | graduated |  |  |  |  |  | 0 |  |
+[oci compute](https://www.oracle.com/cloud/compute/) | graduated |  |  |  |  |  | 0 |  |
+[oci object storage](https://www.oracle.com/cloud/storage/object-storage/) | graduated |  |  |  |  |  | 0 |  |
