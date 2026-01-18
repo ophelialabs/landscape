@@ -53,11 +53,11 @@ groups:
       - Cross-Cloud Services
   - name: Applications and Programs
     categories:
-      - AWS
-      - Microsoft Azure
-      - Google Cloud Platform
-      - Oracle Cloud Infrastructure
-      - IBM Cloud
+      - AWS Applications
+      - Azure Applications
+      - GCP Applications
+      - OCI Applications
+      - IBM Applications
 
 header:
   links:
