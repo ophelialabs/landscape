@@ -22,7 +22,7 @@ colors:
   color6: "rgba(32, 201, 51, 0.7)"      # Success Green Transparent
   color7: "rgba(200, 220, 255, 1)"      # Very Light Blue
 
-description: Unified landscape of major cloud providers (AWS, Azure, GCP, OCI) with cross-cloud services and capabilities. Designed for easy expansion with additional providers.
+description: Unified landscape of major cloud providers (AWS, Azure, GCP, OCI, IBM) with cross-cloud services and capabilities. Designed for easy expansion with additional providers.
 
 featured_items:
   - field: project
@@ -47,9 +47,17 @@ groups:
       - Microsoft Azure
       - Google Cloud Platform
       - Oracle Cloud Infrastructure
+      - IBM Cloud
   - name: Cross-Cloud Capabilities
     categories:
       - Cross-Cloud Services
+  - name: Applications and Programs
+    categories:
+      - AWS Applications
+      - Azure Applications
+      - GCP Applications
+      - OCI Applications
+      - IBM Applications
 
 header:
   links:

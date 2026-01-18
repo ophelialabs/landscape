@@ -388,6 +388,17 @@ categories:
             homepage_url: https://aws.amazon.com/ground-station/
             logo: aws.svg
 
+      - name: AWS Applications
+        items:
+          - name: Amazon GuardDuty
+            description: Threat detection and continuous security monitoring
+            homepage_url: https://aws.amazon.com/guardduty/
+            logo: aws.svg
+          - name: AWS Marketplace
+            description: Third-party software and applications for AWS
+            homepage_url: https://aws.amazon.com/marketplace/
+            logo: aws.svg
+
   - name: Microsoft Azure
     subcategories:
       - name: Compute Services
@@ -723,6 +734,17 @@ categories:
           - name: Planetary Computer
             description: Integrated geospatial analysis platform
             homepage_url: https://planetarycomputer.microsoft.com/
+            logo: azure.svg
+
+      - name: Azure Applications
+        items:
+          - name: Microsoft Defender for Cloud
+            description: Cloud security posture management and threat protection
+            homepage_url: https://azure.microsoft.com/services/defender-for-cloud/
+            logo: azure.svg
+          - name: Azure Marketplace
+            description: Third-party software and applications for Azure
+            homepage_url: https://azuremarketplace.microsoft.com/
             logo: azure.svg
 
   - name: Google Cloud Platform
@@ -1150,6 +1172,17 @@ categories:
             homepage_url: https://cloud.google.com/data-fusion
             logo: gcp.svg
 
+      - name: GCP Applications
+        items:
+          - name: Chronicle
+            description: Cloud-native security analytics platform
+            homepage_url: https://cloud.google.com/chronicle
+            logo: gcp.svg
+          - name: Google Cloud Marketplace
+            description: Third-party software and applications for Google Cloud
+            homepage_url: https://cloud.google.com/marketplace
+            logo: gcp.svg
+
   - name: Oracle Cloud Infrastructure
     subcategories:
       - name: Compute Services
@@ -1383,6 +1416,17 @@ categories:
           - name: Service Connector Hub
             description: Route cloud messages between services
             homepage_url: https://www.oracle.com/cloud/service-connector-hub/
+            logo: oci.svg
+
+      - name: OCI Applications
+        items:
+          - name: Oracle Cloud Marketplace
+            description: Third-party software and applications for Oracle Cloud
+            homepage_url: https://cloudmarketplace.oracle.com/
+            logo: oci.svg
+          - name: Oracle Cloud Applications (Fusion)
+            description: Enterprise applications for ERP, HCM and CX
+            homepage_url: https://www.oracle.com/applications/
             logo: oci.svg
 
   - name: IBM Cloud
@@ -1674,73 +1718,15 @@ categories:
             homepage_url: https://www.ibm.com/cloud/hyper-protect
             logo: ibm.svg
 
-      - name: Developer Tools & CI/CD
+      - name: IBM Applications
         items:
-          - name: Schematics
-            description: Infrastructure as Code automation with Terraform and Ansible
-            homepage_url: https://www.ibm.com/cloud/schematics
+          - name: QRadar
+            description: Security information and event management (SIEM)
+            homepage_url: https://www.ibm.com/security/qradar
             logo: ibm.svg
-          - name: Toolchain
-            description: Integrated development tools and CI/CD pipelines
-            homepage_url: https://www.ibm.com/cloud/toolchain
-            logo: ibm.svg
-          - name: Continuous Delivery
-            description: Automated deployment and continuous integration
-            homepage_url: https://www.ibm.com/cloud/continuous-delivery
-            logo: ibm.svg
-          - name: Container Registry
-            description: Store and manage container images
-            homepage_url: https://www.ibm.com/cloud/container-registry
-            logo: ibm.svg
-          - name: Tekton Pipelines
-            description: Cloud-native CI/CD platform
-            homepage_url: https://www.ibm.com/cloud/tekton
-            logo: ibm.svg
-          - name: DevOps Insights
-            description: Visibility and quality assurance for DevOps
-            homepage_url: https://www.ibm.com/cloud/devops-insights
-            logo: ibm.svg
-
-      - name: Platform Management
-        items:
-          - name: Resource Manager
-            description: Organize and manage cloud resources and billing
-            homepage_url: https://www.ibm.com/cloud/resource-manager
-            logo: ibm.svg
-          - name: Resource Groups
-            description: Group resources for easier management and billing
-            homepage_url: https://www.ibm.com/cloud/resource-groups
-            logo: ibm.svg
-          - name: Cost Management
-            description: Monitor, track, and optimize cloud spending
-            homepage_url: https://www.ibm.com/cloud/cost-management
-            logo: ibm.svg
-          - name: Cloud Console
-            description: Unified web interface for managing IBM Cloud
-            homepage_url: https://cloud.ibm.com
-            logo: ibm.svg
-          - name: Cloud CLI
-            description: Command-line interface for IBM Cloud management
-            homepage_url: https://www.ibm.com/cloud/cli
-            logo: ibm.svg
-
-      - name: Additional Services
-        items:
-          - name: Quantum
-            description: Quantum computing as a service
-            homepage_url: https://www.ibm.com/quantum
-            logo: ibm.svg
-          - name: Blockchain
-            description: Enterprise-grade blockchain platform services
-            homepage_url: https://www.ibm.com/cloud/blockchain
-            logo: ibm.svg
-          - name: Internet of Things
-            description: IoT platform for connected devices
-            homepage_url: https://www.ibm.com/cloud/iot
-            logo: ibm.svg
-          - name: Acceleration Toolkit
-            description: Tools for accelerating application performance
-            homepage_url: https://www.ibm.com/cloud/acceleration-toolkit
+          - name: IBM Cloud Pak for Security
+            description: Integrated security platform and applications
+            homepage_url: https://www.ibm.com/products/ibm-cloud-pak-for-security
             logo: ibm.svg
 
   - name: Cross-Cloud Services
