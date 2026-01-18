@@ -78,7 +78,7 @@ This standardized structure ensures consistency across the landscape and enables
 | **Microsoft Azure** | 90+ | Compute, Storage, Database, Analytics, AI/ML, Networking & Content Delivery, Data Integration & Migration |
 | **Google Cloud Platform** | 130+ | Compute, Storage, Database, Analytics, AI/ML, Networking & Content Delivery, Data Integration & Migration |
 | **Oracle Cloud Infrastructure** | 50+ | Compute, Storage, Database, Analytics, AI/ML, Networking & Content Delivery, Data Integration & Migration |
-| **IBM Cloud** | 45+ | Compute, Storage, Database, Analytics, AI/ML, Networking & Content Delivery, Data Integration & Migration |
+| **IBM Cloud** | 80+ | Compute, Storage, Database, Analytics, AI/ML, Networking & Content Delivery, Data Integration & Migration |
 
 #### Service Details by Provider
 
@@ -118,7 +118,7 @@ This standardized structure ensures consistency across the landscape and enables
 - **Networking & Content Delivery** - Virtual Cloud Network, Load Balancer, FastConnect, VPN Connect, CDN, Service Gateway
 - **Data Integration & Migration** - GoldenGate, Data Pump, Dataflow, Event Streaming, Service Connector Hub
 
-**IBM Cloud (45+ Services) - NEW**
+**IBM Cloud (80+ Services) - NEW**
 - **Compute Services** - Virtual Servers, Cloud Functions, Code Engine, OpenShift, Bare Metal, Power Virtual Servers
 - **Storage Services** - Cloud Object Storage, Block Storage, File Storage, Backup & Restore, Aspera
 - **Database Services** - Db2, Cloudant, MongoDB, PostgreSQL, MySQL, Data Warehouse
