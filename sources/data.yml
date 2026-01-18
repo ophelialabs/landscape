@@ -13,54 +13,54 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: Secure and resizable compute capacity with flexible instance types
             homepage_url: https://aws.amazon.com/ec2/
-            logo: aws-ec2.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/aws/images/favicons/onecloud/super_cloud.svg
             project: graduated
             repo_url: https://github.com/aws/aws-ec2-instance-types
             twitter: https://twitter.com/awscloud
           - name: AWS Lambda
             description: Serverless compute for event-driven workloads
             homepage_url: https://aws.amazon.com/lambda/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon ECS
             description: Fully managed container orchestration service
             homepage_url: https://aws.amazon.com/ecs/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon EKS
             description: Managed Kubernetes service
             homepage_url: https://aws.amazon.com/eks/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Elastic Beanstalk
             description: Easy to deploy and scale web applications and services
             homepage_url: https://aws.amazon.com/elasticbeanstalk/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Auto Scaling
             description: Automatic scaling of EC2 instances and resources
             homepage_url: https://aws.amazon.com/autoscaling/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Lightsail
             description: Simple virtual servers, storage, and databases
             homepage_url: https://aws.amazon.com/lightsail/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS App Runner
             description: Fully managed service to build and run containerized applications
             homepage_url: https://aws.amazon.com/apprunner/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Batch
             description: Fully managed batch computing service
             homepage_url: https://aws.amazon.com/batch/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Outposts
             description: Fully managed service for on-premises AWS infrastructure
             homepage_url: https://aws.amazon.com/outposts/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: VMware Cloud on AWS
             description: VMware infrastructure running on AWS
             homepage_url: https://aws.amazon.com/vmware/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Wavelength
             description: Deliver ultra-low latency applications
             homepage_url: https://aws.amazon.com/wavelength/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: Storage Services
         items:
@@ -68,44 +68,44 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: Scalable object storage service
             homepage_url: https://aws.amazon.com/s3/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
             project: graduated
           - name: Amazon EBS
             description: Persistent block storage volumes
             homepage_url: https://aws.amazon.com/ebs/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon EFS
             description: Serverless elastic NFS file system
             homepage_url: https://aws.amazon.com/efs/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Glacier
             description: Low-cost storage for data archiving and long-term backup
             homepage_url: https://aws.amazon.com/glacier/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Storage Gateway
             description: Hybrid cloud storage with local caching
             homepage_url: https://aws.amazon.com/storagegateway/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Backup
             description: Centralized, policy-based backup service
             homepage_url: https://aws.amazon.com/backup/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS DataSync
             description: Automate large-scale data transfers
             homepage_url: https://aws.amazon.com/datasync/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon FSx for Windows File Server
             description: Fully managed Windows file storage
             homepage_url: https://aws.amazon.com/fsx/windows/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon FSx for Lustre
             description: High-performance file system for computing workloads
             homepage_url: https://aws.amazon.com/fsx/lustre/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Snow Family
             description: Physical devices for secure data transfer and edge computing
             homepage_url: https://aws.amazon.com/snow/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: Database Services
         items:
@@ -113,291 +113,331 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: Managed relational database
             homepage_url: https://aws.amazon.com/rds/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
             project: graduated
           - name: Amazon DynamoDB
             description: Fast and flexible NoSQL database
             homepage_url: https://aws.amazon.com/dynamodb/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon ElastiCache
             description: In-memory caching service
             homepage_url: https://aws.amazon.com/elasticache/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Aurora
             description: MySQL and PostgreSQL-compatible relational database
             homepage_url: https://aws.amazon.com/rds/aurora/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon DocumentDB
             description: MongoDB-compatible document database
             homepage_url: https://aws.amazon.com/documentdb/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Neptune
             description: Fast and reliable graph database
             homepage_url: https://aws.amazon.com/neptune/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon QLDB
             description: Quantum Ledger Database for immutable logging
             homepage_url: https://aws.amazon.com/qldb/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Timestream
             description: Time series database for IoT and real-time analytics
             homepage_url: https://aws.amazon.com/timestream/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Redshift
             description: Fast, fully managed data warehouse
             homepage_url: https://aws.amazon.com/redshift/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Database Migration Service
             description: Migrate databases with minimal downtime
             homepage_url: https://aws.amazon.com/dms/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: Analytics Services
         items:
           - name: Amazon Redshift
             description: Fast, fully managed data warehouse
             homepage_url: https://aws.amazon.com/redshift/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Athena
             description: Interactive query service for data in S3
             homepage_url: https://aws.amazon.com/athena/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon EMR
             description: Big data processing service for Apache Spark and Hadoop
             homepage_url: https://aws.amazon.com/emr/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Kinesis Data Streams
             description: Real-time data streaming service
             homepage_url: https://aws.amazon.com/kinesis/data-streams/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Kinesis Data Firehose
             description: Load streaming data into data stores and analytics tools
             homepage_url: https://aws.amazon.com/kinesis/data-firehose/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Kinesis Video Streams
             description: Stream video from connected devices
             homepage_url: https://aws.amazon.com/kinesis/video-streams/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Glue
             description: Extract, transform, and load data
             homepage_url: https://aws.amazon.com/glue/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Lake Formation
             description: Build secure data lakes
             homepage_url: https://aws.amazon.com/lake-formation/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon QuickSight
             description: Business intelligence and dashboards
             homepage_url: https://aws.amazon.com/quicksight/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS DataBrew
             description: Prepare and clean data using visual interface
             homepage_url: https://aws.amazon.com/databrew/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Lookout for Vision
             description: Detect visual anomalies with machine learning
             homepage_url: https://aws.amazon.com/lookout-for-vision/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Data Wrangler
             description: Prepare data for machine learning
             homepage_url: https://aws.amazon.com/sagemaker/data-wrangler/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: AI/ML Services
         items:
           - name: Amazon SageMaker
             description: Build, train, and deploy machine learning models
             homepage_url: https://aws.amazon.com/sagemaker/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Studio
             description: Integrated development environment for machine learning
             homepage_url: https://aws.amazon.com/sagemaker/studio/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Pipelines
             description: CI/CD for machine learning
             homepage_url: https://aws.amazon.com/sagemaker/pipelines/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Feature Store
             description: Store, discover, and share features for ML
             homepage_url: https://aws.amazon.com/sagemaker/feature-store/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Model Registry
             description: Catalog and manage machine learning models
             homepage_url: https://aws.amazon.com/sagemaker/model-registry/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Debugger
             description: Debug and monitor machine learning training
             homepage_url: https://aws.amazon.com/sagemaker/debugger/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: SageMaker Monitoring
             description: Monitor machine learning models in production
             homepage_url: https://aws.amazon.com/sagemaker/model-monitor/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Rekognition
             description: Image and video recognition service
             homepage_url: https://aws.amazon.com/rekognition/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Comprehend
             description: Natural language processing service
             homepage_url: https://aws.amazon.com/comprehend/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Polly
             description: Text-to-speech service
             homepage_url: https://aws.amazon.com/polly/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Lex
             description: Build conversational interfaces
             homepage_url: https://aws.amazon.com/lex/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Translate
             description: Neural machine translation service
             homepage_url: https://aws.amazon.com/translate/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Forecast
             description: Time series forecasting service
             homepage_url: https://aws.amazon.com/forecast/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Lookout for Metrics
             description: Automatically detect anomalies
             homepage_url: https://aws.amazon.com/lookout-for-metrics/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Lookout for Equipment
             description: Detect equipment anomalies using machine learning
             homepage_url: https://aws.amazon.com/lookout-for-equipment/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Personalize
             description: Real-time personalization and recommendations
             homepage_url: https://aws.amazon.com/personalize/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Textract
             description: Extract text and data from documents
             homepage_url: https://aws.amazon.com/textract/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Contact Lens for Amazon Connect
             description: Analyze customer interactions with machine learning
             homepage_url: https://aws.amazon.com/connect/contact-lens/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: Networking & Content Delivery
         items:
           - name: Amazon VPC
             description: Isolated cloud network
             homepage_url: https://aws.amazon.com/vpc/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon CloudFront
             description: Content delivery network
             homepage_url: https://aws.amazon.com/cloudfront/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Route 53
             description: Scalable domain name system and traffic management
             homepage_url: https://aws.amazon.com/route53/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Elastic Load Balancing
             description: Distribute incoming traffic across multiple targets
             homepage_url: https://aws.amazon.com/elasticloadbalancing/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Application Load Balancer
             description: Layer 7 load balancer for modern applications
             homepage_url: https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Network Load Balancer
             description: Ultra-high performance load balancer
             homepage_url: https://aws.amazon.com/elasticloadbalancing/networkloadbalancer/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Direct Connect
             description: Dedicated network connection to AWS
             homepage_url: https://aws.amazon.com/directconnect/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS VPN
             description: Securely connect to AWS resources
             homepage_url: https://aws.amazon.com/vpn/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS PrivateLink
             description: Provide private connectivity between VPCs and services
             homepage_url: https://aws.amazon.com/privatelink/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: VPC Peering
             description: Connect VPCs together
             homepage_url: https://docs.aws.amazon.com/vpc/latest/peering/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Shield
             description: DDoS protection service
             homepage_url: https://aws.amazon.com/shield/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS WAF
             description: Web application firewall
             homepage_url: https://aws.amazon.com/waf/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Firewall Manager
             description: Centralized firewall management
             homepage_url: https://aws.amazon.com/waf/firewall-manager/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon CloudWatch
             description: Monitoring and observability service
             homepage_url: https://aws.amazon.com/cloudwatch/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: VPC Flow Logs
             description: Capture IP traffic information
             homepage_url: https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Transit Gateway
             description: Connect VPCs and on-premises networks
             homepage_url: https://aws.amazon.com/transit-gateway/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS App Mesh
             description: Service mesh for microservices
             homepage_url: https://aws.amazon.com/app-mesh/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Ground Station
+            description: Fully managed ground station as a service
+            homepage_url: https://aws.amazon.com/ground-station/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: Amazon LEO
+            description: Low Earth Orbit satellite connectivity service
+            homepage_url: https://aws.amazon.com/leo/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: Data Integration & Migration
         items:
           - name: AWS Database Migration Service
             description: Migrate databases with minimal downtime
             homepage_url: https://aws.amazon.com/dms/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Glue
             description: Extract, transform, and load data
             homepage_url: https://aws.amazon.com/glue/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS DataSync
             description: Automate large-scale data transfers
             homepage_url: https://aws.amazon.com/datasync/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Transfer Family
             description: SFTP, FTPS, and FTP service
             homepage_url: https://aws.amazon.com/transfer/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS DataBrew
             description: Prepare and clean data using visual interface
             homepage_url: https://aws.amazon.com/databrew/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon Kinesis
             description: Real-time data streaming platform
             homepage_url: https://aws.amazon.com/kinesis/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon MQ
             description: Managed message broker service
             homepage_url: https://aws.amazon.com/amazon-mq/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon AppFlow
             description: Secure data transfer between applications
             homepage_url: https://aws.amazon.com/appflow/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Ground Station
             description: Fully managed ground station as a service
             homepage_url: https://aws.amazon.com/ground-station/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
       - name: AWS Applications
         items:
           - name: Amazon GuardDuty
             description: Threat detection and continuous security monitoring
             homepage_url: https://aws.amazon.com/guardduty/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: AWS Marketplace
             description: Third-party software and applications for AWS
             homepage_url: https://aws.amazon.com/marketplace/
-            logo: aws.svg
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS WorkSpaces
+            description: Managed desktop computing service
+            homepage_url: https://aws.amazon.com/workspaces/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: Amazon Connect
+            description: Cloud-based contact center solution
+            homepage_url: https://aws.amazon.com/connect/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS IoT Core
+            description: Managed IoT platform for connected devices
+            homepage_url: https://aws.amazon.com/iot-core/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: Amazon Chime
+            description: Communication service for meetings and messaging
+            homepage_url: https://aws.amazon.com/chime/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Certificate Manager
+            description: SSL/TLS certificate management
+            homepage_url: https://aws.amazon.com/certificate-manager/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Secrets Manager
+            description: Manage secrets and credentials
+            homepage_url: https://aws.amazon.com/secrets-manager/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Config
+            description: Track AWS resource configurations
+            homepage_url: https://aws.amazon.com/config/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS CloudTrail
+            description: Track user activity and API calls
+            homepage_url: https://aws.amazon.com/cloudtrail/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 
   - name: Microsoft Azure
     subcategories:
@@ -407,52 +447,52 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Scalable computing resources with Windows or Linux
             homepage_url: https://azure.microsoft.com/services/virtual-machines/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: App Service
             description: Build and host web apps, mobile backends, and RESTful APIs
             homepage_url: https://azure.microsoft.com/services/app-service/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Functions
             description: Event-driven serverless compute
             homepage_url: https://azure.microsoft.com/services/functions/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Container Instances
             description: Serverless container deployment
             homepage_url: https://azure.microsoft.com/services/container-instances/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Kubernetes Service (AKS)
             description: Fully managed Kubernetes service
             homepage_url: https://azure.microsoft.com/services/kubernetes-service/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Batch
             description: Large-scale parallel and high-performance computing
             homepage_url: https://azure.microsoft.com/services/batch/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Virtual Machine Scale Sets
             description: Automatically scale VMs based on demand
             homepage_url: https://azure.microsoft.com/services/virtual-machine-scale-sets/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Service Fabric
             description: Distributed systems platform for microservices
             homepage_url: https://azure.microsoft.com/services/service-fabric/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Container Apps
             description: Build and deploy containerized apps on serverless platform
             homepage_url: https://azure.microsoft.com/services/container-apps/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Dedicated Hosts
             description: Dedicated physical servers for VMs
             homepage_url: https://azure.microsoft.com/services/virtual-machines/dedicated-host/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure VMware Solution
             description: Run VMware workloads on Azure
             homepage_url: https://azure.microsoft.com/services/azure-vmware/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Spot Virtual Machines
             description: Use unused Azure compute capacity at discounted rates
             homepage_url: https://azure.microsoft.com/services/virtual-machines/spot/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Storage Services
         items:
@@ -460,40 +500,40 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Massively scalable cloud object storage
             homepage_url: https://azure.microsoft.com/services/storage/blobs/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: Disk Storage
             description: Block-level storage volumes for Azure VMs
             homepage_url: https://azure.microsoft.com/services/managed-disks/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: File Share
             description: Fully managed file shares accessible via SMB protocol
             homepage_url: https://azure.microsoft.com/services/storage/files/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Table Storage
             description: NoSQL key-value store for structured data
             homepage_url: https://azure.microsoft.com/services/storage/tables/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Archive Storage
             description: Long-term retention storage with lowest cost
             homepage_url: https://azure.microsoft.com/services/storage/archive/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Data Lake Storage
             description: Scalable secure data lake for analytics
             homepage_url: https://azure.microsoft.com/services/storage/data-lake-storage/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Managed Disks
             description: Persistent block storage for VMs
             homepage_url: https://azure.microsoft.com/services/managed-disks/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Ultra Disks
             description: Ultra-high performance disk storage
             homepage_url: https://azure.microsoft.com/services/managed-disks/ultra/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: NetApp Files
             description: Enterprise-grade file sharing with NetApp
             homepage_url: https://azure.microsoft.com/services/netapp/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Database Services
         items:
@@ -501,251 +541,291 @@ categories:
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Fully managed SQL Server database
             homepage_url: https://azure.microsoft.com/services/sql-database/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: Cosmos DB
             description: Globally distributed NoSQL database
             homepage_url: https://azure.microsoft.com/services/cosmos-db/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Database for MySQL
             description: Managed MySQL relational database
             homepage_url: https://azure.microsoft.com/services/mysql/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Database for PostgreSQL
             description: Managed PostgreSQL relational database
             homepage_url: https://azure.microsoft.com/services/postgresql/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Database for MariaDB
             description: Managed MariaDB relational database
             homepage_url: https://azure.microsoft.com/services/mariadb/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: HorizonDB
             description: Time series database for analytics
             homepage_url: https://azure.microsoft.com/services/data-explorer/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Redis Cache
             description: In-memory data structure store
             homepage_url: https://azure.microsoft.com/services/cache/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: SQL Managed Instance
             description: Managed SQL Server instance with high compatibility
             homepage_url: https://azure.microsoft.com/services/sql-managed-instance/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: SQL Edge
             description: SQL database engine for edge computing
             homepage_url: https://azure.microsoft.com/services/sql-edge/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Database Migration Service
             description: Migrate databases to Azure with minimal downtime
             homepage_url: https://azure.microsoft.com/services/database-migration/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Analytics Services
         items:
           - name: Synapse Analytics
             description: Unified analytics platform
             homepage_url: https://azure.microsoft.com/services/synapse-analytics/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Data Factory
             description: Hybrid data integration service
             homepage_url: https://azure.microsoft.com/services/data-factory/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Stream Analytics
             description: Real-time data stream processing
             homepage_url: https://azure.microsoft.com/services/stream-analytics/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Databricks
             description: Apache Spark-based analytics platform
             homepage_url: https://azure.microsoft.com/services/databricks/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: HDInsight
             description: Managed Hadoop, Spark, and Hive clusters
             homepage_url: https://azure.microsoft.com/services/hdinsight/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Data Lake Analytics
             description: On-demand analytics job service
             homepage_url: https://azure.microsoft.com/services/data-lake-analytics/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Power BI
             description: Business intelligence and analytics
             homepage_url: https://powerbi.microsoft.com/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Analysis Services
             description: Enterprise-grade data modeling and analysis
             homepage_url: https://azure.microsoft.com/services/analysis-services/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Data Share
             description: Simple and safe data sharing service
             homepage_url: https://azure.microsoft.com/services/data-share/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Purview
             description: Unified data governance and cataloging
             homepage_url: https://azure.microsoft.com/services/purview/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: AI/ML Services
         items:
           - name: Azure AI Services
             description: Comprehensive AI services and tools
             homepage_url: https://azure.microsoft.com/services/cognitive-services/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Machine Learning
             description: Enterprise-grade machine learning platform
             homepage_url: https://azure.microsoft.com/services/machine-learning/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Cognitive Services
             description: APIs for vision, speech, language, and decision
             homepage_url: https://azure.microsoft.com/services/cognitive-services/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure OpenAI
             description: Access to OpenAI models on Azure
             homepage_url: https://azure.microsoft.com/services/openai-service/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Bot Service
             description: Build and deploy intelligent bots
             homepage_url: https://azure.microsoft.com/services/bot-services/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Form Recognizer
             description: Extract text and data from documents
             homepage_url: https://azure.microsoft.com/services/applied-ai-services/form-recognizer/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Search
             description: Cloud search service for web and mobile apps
             homepage_url: https://azure.microsoft.com/services/search/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Computer Vision
             description: Analyze images and videos
             homepage_url: https://azure.microsoft.com/services/cognitive-services/computer-vision/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Language Understanding
             description: Natural language understanding service
             homepage_url: https://azure.microsoft.com/services/cognitive-services/language-understanding/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Speech Services
             description: Speech-to-text, text-to-speech, and translation
             homepage_url: https://azure.microsoft.com/services/cognitive-services/speech-services/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Translator
             description: Real-time text and document translation
             homepage_url: https://azure.microsoft.com/services/cognitive-services/translator/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Anomaly Detector
             description: Detect anomalies in time series data
             homepage_url: https://azure.microsoft.com/services/cognitive-services/anomaly-detector/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Content Moderator
             description: Content moderation for images, text, and videos
             homepage_url: https://azure.microsoft.com/services/cognitive-services/content-moderator/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Personalizer
             description: Real-time personalization service
             homepage_url: https://azure.microsoft.com/services/cognitive-services/personalizer/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Networking & Content Delivery
         items:
           - name: Virtual Network
             description: Isolated network in Azure cloud
             homepage_url: https://azure.microsoft.com/services/virtual-network/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Load Balancer
             description: Layer 4 load balancer for high availability
             homepage_url: https://azure.microsoft.com/services/load-balancer/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Application Gateway
             description: Layer 7 load balancer and web application firewall
             homepage_url: https://azure.microsoft.com/services/application-gateway/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Content Delivery Network
             description: Global content delivery and acceleration
             homepage_url: https://azure.microsoft.com/services/cdn/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Traffic Manager
             description: DNS-based traffic load balancer
             homepage_url: https://azure.microsoft.com/services/traffic-manager/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: ExpressRoute
             description: Dedicated network connection to Azure
             homepage_url: https://azure.microsoft.com/services/expressroute/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: VPN Gateway
             description: Site-to-site and point-to-site VPN connections
             homepage_url: https://azure.microsoft.com/services/vpn-gateway/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Bastion
             description: Secure RDP and SSH access without exposing ports
             homepage_url: https://azure.microsoft.com/services/azure-bastion/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Firewall
             description: Cloud-native network security service
             homepage_url: https://azure.microsoft.com/services/azure-firewall/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: DDoS Protection
             description: DDoS attack protection service
             homepage_url: https://azure.microsoft.com/services/ddos-protection/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Network Watcher
             description: Network monitoring and diagnostics
             homepage_url: https://azure.microsoft.com/services/network-watcher/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Front Door
             description: Global load balancer and DDoS protection
             homepage_url: https://azure.microsoft.com/services/frontdoor/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Private Link
             description: Access Azure services over private network
             homepage_url: https://azure.microsoft.com/services/private-link/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Virtual WAN
             description: Unified wide area network
             homepage_url: https://azure.microsoft.com/services/virtual-wan/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Orbital
+            description: Satellite ground stations and connectivity
+            homepage_url: https://azure.microsoft.com/services/orbital/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Edge Zones
+            description: Ultra-low latency computing at the edge
+            homepage_url: https://azure.microsoft.com/services/edge-zones/
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Data Integration & Migration
         items:
           - name: Data Factory
             description: Hybrid data integration service
             homepage_url: https://azure.microsoft.com/services/data-factory/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Synapse Link
             description: Real-time analytics on operational data
             homepage_url: https://azure.microsoft.com/services/synapse-link/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Data Share
             description: Simple and safe data sharing service
             homepage_url: https://azure.microsoft.com/services/data-share/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Purview
             description: Unified data governance and cataloging
             homepage_url: https://azure.microsoft.com/services/purview/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Stream Analytics
             description: Real-time data stream processing
             homepage_url: https://azure.microsoft.com/services/stream-analytics/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Event Hubs
             description: Big data streaming platform
             homepage_url: https://azure.microsoft.com/services/event-hubs/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Service Bus
             description: Managed message broker service
             homepage_url: https://azure.microsoft.com/services/service-bus/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Planetary Computer
             description: Integrated geospatial analysis platform
             homepage_url: https://planetarycomputer.microsoft.com/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
 
       - name: Azure Applications
         items:
           - name: Microsoft Defender for Cloud
             description: Cloud security posture management and threat protection
             homepage_url: https://azure.microsoft.com/services/defender-for-cloud/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
           - name: Azure Marketplace
             description: Third-party software and applications for Azure
             homepage_url: https://azuremarketplace.microsoft.com/
-            logo: azure.svg
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Microsoft 365
+            description: Cloud productivity suite with Office apps
+            homepage_url: https://www.microsoft.com/microsoft-365
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Communication Services
+            description: Build rich communication experiences
+            homepage_url: https://azure.microsoft.com/services/communication-services/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure IoT Hub
+            description: Managed IoT platform for device connectivity
+            homepage_url: https://azure.microsoft.com/services/iot-hub/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Dynamics 365
+            description: Enterprise resource planning and CRM applications
+            homepage_url: https://dynamics.microsoft.com/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Teams
+            description: Collaboration and communication platform
+            homepage_url: https://www.microsoft.com/microsoft-teams
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Key Vault
+            description: Manage cryptographic keys and secrets
+            homepage_url: https://azure.microsoft.com/services/key-vault/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Policy
+            description: Enforce organizational standards and compliance
+            homepage_url: https://azure.microsoft.com/services/azure-policy/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure DevOps
+            description: Development collaboration and CI/CD tools
+            homepage_url: https://azure.microsoft.com/services/devops/
+            logo: https://www.microsoft.com/favicon.ico
 
   - name: Google Cloud Platform
     subcategories:
@@ -754,980 +834,560 @@ categories:
           - name: Cloud Functions
             description: Serverless functions service
             homepage_url: https://cloud.google.com/functions
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: App Engine
             description: Platform as a Service for web applications
             homepage_url: https://cloud.google.com/appengine
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Run
             description: Fully managed container platform
             homepage_url: https://cloud.google.com/run
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Kubernetes Engine (GKE)
             description: Fully managed Kubernetes service
             homepage_url: https://cloud.google.com/kubernetes-engine
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Compute Engine
             crunchbase: https://www.crunchbase.com/organization/google-cloud
             description: Customizable compute capacity with global footprint
             homepage_url: https://cloud.google.com/compute
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
             project: graduated
           - name: Bare Metal Solution
             description: Dedicated bare metal servers for specialized workloads
             homepage_url: https://cloud.google.com/bare-metal
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Preemptible VMs
             description: Short-lived compute instances at reduced cost
             homepage_url: https://cloud.google.com/compute/docs/instances/preemptible
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Shielded VMs
             description: VMs with hardened security controls
             homepage_url: https://cloud.google.com/compute/shielded-vm
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Sole-tenant Nodes
             description: Dedicated physical servers for your exclusive use
             homepage_url: https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: VMware Engine
             description: Run VMware workloads on Google Cloud
             homepage_url: https://cloud.google.com/vmware-engine
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: Storage Services
         items:
           - name: Cloud Filestore
             description: Managed NFS file storage
             homepage_url: https://cloud.google.com/filestore
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Storage
             crunchbase: https://www.crunchbase.com/organization/google-cloud
             description: Unified object storage service
             homepage_url: https://cloud.google.com/storage
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
             project: graduated
           - name: Persistent Disk
             description: High-performance block storage
             homepage_url: https://cloud.google.com/persistent-disk
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Local SSD
             description: High-speed local storage for compute instances
             homepage_url: https://cloud.google.com/compute/docs/disks/local-ssd
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: Database Services
         items:
           - name: Cloud Bigtable
             description: High-performance NoSQL database
             homepage_url: https://cloud.google.com/bigtable
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Firestore
             description: Serverless NoSQL document database
             homepage_url: https://cloud.google.com/firestore
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Memorystore
             description: Managed Redis and Memcached
             homepage_url: https://cloud.google.com/memorystore
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Spanner
             description: Horizontally scalable relational database
             homepage_url: https://cloud.google.com/spanner
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud SQL
             crunchbase: https://www.crunchbase.com/organization/google-cloud
             description: Fully managed relational database
             homepage_url: https://cloud.google.com/sql
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
             project: graduated
           - name: Database Migration Service
             description: Migrate databases to Cloud SQL
             homepage_url: https://cloud.google.com/database-migration
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud SQL Insights
             description: Database diagnostics and performance insights
             homepage_url: https://cloud.google.com/sql/docs/postgres/insights-overview
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: Analytics Services
         items:
           - name: BigQuery
             description: Serverless data warehouse
             homepage_url: https://cloud.google.com/bigquery
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: BigQuery BI Engine
             description: In-memory analysis engine for BigQuery
             homepage_url: https://cloud.google.com/bigquery/docs/bi-engine
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: BigQuery ML
             description: Create ML models with SQL
             homepage_url: https://cloud.google.com/bigquery/docs/bqml-introduction
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: BigQuery GIS
             description: Geospatial analysis in BigQuery
             homepage_url: https://cloud.google.com/bigquery/docs/gis-intro
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: BigQuery Data Transfer Service
             description: Automate data transfer to BigQuery
             homepage_url: https://cloud.google.com/bigquery-transfer
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Connected Sheets
             description: Work with BigQuery data in Google Sheets
             homepage_url: https://cloud.google.com/bigquery/docs/connected-sheets
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Composer
             description: Fully managed workflow orchestration service
             homepage_url: https://cloud.google.com/composer
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Data Fusion
             description: Fully managed, serverless data integration
             homepage_url: https://cloud.google.com/data-fusion
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Dataflow
             description: Unified stream and batch data processing
             homepage_url: https://cloud.google.com/dataflow
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Dataprep by Trifacta
             description: Intelligent data preparation service
             homepage_url: https://cloud.google.com/dataprep
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Dataproc
             description: Managed Spark and Hadoop service
             homepage_url: https://cloud.google.com/dataproc
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Datastream
             description: Real-time data change capture and replication
             homepage_url: https://cloud.google.com/datastream
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Pub/Sub
             description: Real-time messaging service
             homepage_url: https://cloud.google.com/pubsub
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Data Catalog
             description: Unified data discovery and governance
             homepage_url: https://cloud.google.com/data-catalog
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Data Studio
             description: Free data visualization and reporting
             homepage_url: https://datastudio.google.com/
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Looker
             description: Enterprise business intelligence platform
             homepage_url: https://cloud.google.com/looker
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Public Datasets
             description: Free public datasets on BigQuery
             homepage_url: https://cloud.google.com/public-datasets
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Earth Engine
             description: Geospatial analysis platform for large-scale data
             homepage_url: https://earthengine.google.com/
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: AI/ML Services
         items:
           - name: Vertex AI
             description: Unified platform for machine learning
             homepage_url: https://cloud.google.com/vertex-ai
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: AutoML
             description: Build custom ML models without coding
             homepage_url: https://cloud.google.com/automl
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Data Labeling
             description: Data labeling service for ML
             homepage_url: https://cloud.google.com/vertex-ai/docs/datasets/label-data
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Deep Learning VM Images
             description: Pre-configured VMs for deep learning
             homepage_url: https://cloud.google.com/deep-learning-vm
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Workbench
             description: Managed Jupyter notebook environment
             homepage_url: https://cloud.google.com/vertex-ai/docs/workbench
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Deep Learning Containers
             description: Pre-built Docker containers for deep learning
             homepage_url: https://cloud.google.com/deep-learning-containers
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Matching Engine
             description: Vector similarity search service
             homepage_url: https://cloud.google.com/vertex-ai/docs/matching-engine
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Pipelines
             description: Serverless ML workflow orchestration
             homepage_url: https://cloud.google.com/vertex-ai/docs/pipelines
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Predictions
             description: Serve ML models with auto-scaling
             homepage_url: https://cloud.google.com/vertex-ai/docs/predictions
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Training
             description: Train ML models at scale
             homepage_url: https://cloud.google.com/vertex-ai/docs/training
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Edge Manager
             description: Deploy and manage ML models on edge devices
             homepage_url: https://cloud.google.com/vertex-ai/docs/edge/overview
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex Explainable AI
             description: Understand ML model predictions
             homepage_url: https://cloud.google.com/vertex-ai/docs/explainable-ai
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Feature Store
             description: Managed feature management for ML
             homepage_url: https://cloud.google.com/vertex-ai/docs/featurestore
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex ML Metadata
             description: Track ML metadata and artifacts
             homepage_url: https://cloud.google.com/vertex-ai/docs/ml-metadata
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Model Monitoring
             description: Monitor ML model performance
             homepage_url: https://cloud.google.com/vertex-ai/docs/model-monitoring
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Tensorboard
             description: ML experiment tracking and visualization
             homepage_url: https://cloud.google.com/vertex-ai/docs/experiments/tensorboard
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vertex AI Vizier
             description: Hyperparameter tuning service
             homepage_url: https://cloud.google.com/vertex-ai/docs/vizier
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Speech-to-Text
             description: Convert audio to text
             homepage_url: https://cloud.google.com/speech-to-text
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Talent Solutions
             description: AI-powered recruitment solutions
             homepage_url: https://cloud.google.com/talent-solutions
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Text-to-Speech
             description: Convert text to natural-sounding speech
             homepage_url: https://cloud.google.com/text-to-speech
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud TPU
             description: Tensor Processing Units for ML
             homepage_url: https://cloud.google.com/tpu
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Translation
             description: Neural machine translation
             homepage_url: https://cloud.google.com/translate
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Video Intelligence API
             description: Extract insights from videos
             homepage_url: https://cloud.google.com/video-intelligence
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Vision
             description: Analyze images and extract text
             homepage_url: https://cloud.google.com/vision
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Contact Center AI
             description: AI solutions for contact centers
             homepage_url: https://cloud.google.com/solutions/contact-center
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Dialogflow
             description: Conversational AI platform
             homepage_url: https://cloud.google.com/dialogflow
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Document AI
             description: Extract and classify document data
             homepage_url: https://cloud.google.com/document-ai
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Recommendations AI
             description: Build personalized recommendation engines
             homepage_url: https://cloud.google.com/recommendations
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Vision Product Search
             description: Search products by image
             homepage_url: https://cloud.google.com/vision/product-search
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: Networking & Content Delivery
         items:
           - name: Carrier Peering
             description: Exchange traffic with telecom carriers
             homepage_url: https://cloud.google.com/interconnect/docs/how-to/carrier-peering
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Direct Peering
             description: Direct network connection to Google
             homepage_url: https://cloud.google.com/interconnect/docs/direct-peering
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Dedicated Interconnect
             description: Dedicated network connection to Google Cloud
             homepage_url: https://cloud.google.com/interconnect/docs/dedicated-interconnect
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Partner Interconnect
             description: Network connection through partners
             homepage_url: https://cloud.google.com/interconnect/docs/partner-interconnect
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Cloud Armor
             description: DDoS protection and WAF
             homepage_url: https://cloud.google.com/armor
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud CDN
             description: Content delivery network
             homepage_url: https://cloud.google.com/cdn
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud DNS
             description: Scalable DNS service
             homepage_url: https://cloud.google.com/dns
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Load Balancing
             description: Load balancer for global traffic distribution
             homepage_url: https://cloud.google.com/load-balancing
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud NAT
             description: Managed network translation
             homepage_url: https://cloud.google.com/nat
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Router
             description: Dynamic routing service
             homepage_url: https://cloud.google.com/router
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud VPN
             description: VPN connections to Google Cloud
             homepage_url: https://cloud.google.com/vpn
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Network Service Tiers
             description: Choose performance and cost tier
             homepage_url: https://cloud.google.com/network-tiers
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Network Telemetry
             description: Network monitoring and visibility
             homepage_url: https://cloud.google.com/vpc/docs/flow-logs
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Traffic Director
             description: Fully managed service mesh control plane
             homepage_url: https://cloud.google.com/traffic-director
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Anthos Service Mesh
             description: Service mesh for applications
             homepage_url: https://cloud.google.com/anthos/service-mesh
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Virtual Private Cloud
             description: Isolated virtual network in Google Cloud
             homepage_url: https://cloud.google.com/vpc
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Domains
             description: Register and manage domains
             homepage_url: https://cloud.google.com/domains
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: VPC Service Controls
             description: Enforce security boundaries
             homepage_url: https://cloud.google.com/vpc-service-controls
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Network Intelligence Center
             description: Network monitoring and management
             homepage_url: https://cloud.google.com/network-intelligence
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Service Directory
             description: Managed service discovery
             homepage_url: https://cloud.google.com/service-directory
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Private Service Connect
             description: Private connectivity to services
             homepage_url: https://cloud.google.com/vpc/docs/private-service-connect
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Network Connectivity Center
             description: Unified network connectivity
             homepage_url: https://cloud.google.com/network-connectivity
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Packet Mirroring
             description: Copy traffic to monitoring tools
             homepage_url: https://cloud.google.com/vpc/docs/packet-mirroring
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud IDS
             description: Network threat detection
             homepage_url: https://cloud.google.com/intrusion-detection-system
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Edge Network
+            description: Low-latency edge computing network
+            homepage_url: https://cloud.google.com/edge-network
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Distributed Cloud Edge
+            description: Deploy Google Cloud services at the edge
+            homepage_url: https://cloud.google.com/distributed-cloud/edge
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: Data Integration & Migration
         items:
           - name: Dataflow
             description: Unified stream and batch data processing
             homepage_url: https://cloud.google.com/dataflow
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Data Transfer
             description: Transfer data to Google Cloud
             homepage_url: https://cloud.google.com/data-transfer
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Database Migration Service
             description: Migrate databases to Cloud SQL
             homepage_url: https://cloud.google.com/database-migration
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Datastream
             description: Real-time data change capture
             homepage_url: https://cloud.google.com/datastream
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Pub/Sub
             description: Real-time messaging service
             homepage_url: https://cloud.google.com/pubsub
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Composer
             description: Fully managed workflow orchestration
             homepage_url: https://cloud.google.com/composer
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Data Fusion
             description: Fully managed data integration
             homepage_url: https://cloud.google.com/data-fusion
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: GCP Applications
         items:
           - name: Chronicle
             description: Cloud-native security analytics platform
             homepage_url: https://cloud.google.com/chronicle
-            logo: gcp.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Cloud Marketplace
             description: Third-party software and applications for Google Cloud
             homepage_url: https://cloud.google.com/marketplace
-            logo: gcp.svg
-
-  - name: Oracle Cloud Infrastructure
-    subcategories:
-      - name: Compute Services
-        items:
-          - name: Compute Instances
-            description: Scalable compute instances with flexible sizing
-            homepage_url: https://www.oracle.com/cloud/compute/
-            logo: oci.svg
-          - name: Container Engine (OKE)
-            description: Managed Kubernetes service
-            homepage_url: https://www.oracle.com/cloud/kubernetes/
-            logo: oci.svg
-          - name: Functions
-            description: Serverless functions service
-            homepage_url: https://www.oracle.com/cloud/functions/
-            logo: oci.svg
-          - name: Bare Metal
-            description: Dedicated bare metal servers
-            homepage_url: https://www.oracle.com/cloud/compute/bare-metal/
-            logo: oci.svg
-          - name: VM Database Systems
-            description: Preconfigured virtual machines for databases
-            homepage_url: https://www.oracle.com/cloud/database/vm-database-systems/
-            logo: oci.svg
-          - name: Dedicated VM Hosts
-            description: Dedicated servers for VM instances
-            homepage_url: https://www.oracle.com/cloud/compute/dedicated-hosts/
-            logo: oci.svg
-          - name: GPU Instances
-            description: GPU-accelerated compute instances
-            homepage_url: https://www.oracle.com/cloud/compute/gpu/
-            logo: oci.svg
-          - name: Exadata Cloud Service
-            description: High-performance database infrastructure
-            homepage_url: https://www.oracle.com/cloud/database/exadata-cloud-service/
-            logo: oci.svg
-
-      - name: Storage Services
-        items:
-          - name: Object Storage
-            description: Scalable object storage service
-            homepage_url: https://www.oracle.com/cloud/storage/object-storage/
-            logo: oci.svg
-          - name: Block Storage
-            description: High-performance block storage
-            homepage_url: https://www.oracle.com/cloud/storage/block-storage/
-            logo: oci.svg
-          - name: File Storage
-            description: Fully managed NFS file system
-            homepage_url: https://www.oracle.com/cloud/storage/file-storage/
-            logo: oci.svg
-          - name: Archive Storage
-            description: Low-cost long-term data archive
-            homepage_url: https://www.oracle.com/cloud/storage/archive-storage/
-            logo: oci.svg
-          - name: Data Transfer Service
-            description: Transfer large volumes of data to OCI
-            homepage_url: https://www.oracle.com/cloud/storage/data-transfer-service/
-            logo: oci.svg
-          - name: Storage Gateway
-            description: Hybrid storage solution
-            homepage_url: https://www.oracle.com/cloud/storage/storage-gateway/
-            logo: oci.svg
-
-      - name: Database Services
-        items:
-          - name: Autonomous Database
-            description: Self-managing Oracle database
-            homepage_url: https://www.oracle.com/cloud/database/autonomous-database/
-            logo: oci.svg
-          - name: Autonomous Transaction Processing
-            description: High-performance transaction database
-            homepage_url: https://www.oracle.com/cloud/database/autonomous-transaction-processing/
-            logo: oci.svg
-          - name: Autonomous Data Warehouse
-            description: Analytics-optimized autonomous database
-            homepage_url: https://www.oracle.com/cloud/database/autonomous-data-warehouse/
-            logo: oci.svg
-          - name: MySQL Database
-            description: Managed MySQL database service
-            homepage_url: https://www.oracle.com/cloud/database/mysql/
-            logo: oci.svg
-          - name: PostgreSQL Database
-            description: Managed PostgreSQL database service
-            homepage_url: https://www.oracle.com/cloud/database/postgresql/
-            logo: oci.svg
-          - name: Data Warehouse
-            description: Data warehouse for analytics
-            homepage_url: https://www.oracle.com/cloud/database/data-warehouse/
-            logo: oci.svg
-          - name: NoSQL Database
-            description: Fully managed NoSQL service
-            homepage_url: https://www.oracle.com/cloud/database/nosql-database/
-            logo: oci.svg
-          - name: Database Migration
-            description: Migrate databases to OCI
-            homepage_url: https://www.oracle.com/cloud/database/database-migration/
-            logo: oci.svg
-
-      - name: Analytics Services
-        items:
-          - name: Big Data Service
-            description: Fully managed big data platform
-            homepage_url: https://www.oracle.com/cloud/big-data/
-            logo: oci.svg
-          - name: Data Integration
-            description: Cloud-native data integration service
-            homepage_url: https://www.oracle.com/cloud/data-integration/
-            logo: oci.svg
-          - name: Streaming
-            description: Real-time data streaming service
-            homepage_url: https://www.oracle.com/cloud/streaming/
-            logo: oci.svg
-          - name: Data Lake
-            description: Scalable data lake solution
-            homepage_url: https://www.oracle.com/cloud/data-lake/
-            logo: oci.svg
-          - name: Analytics Cloud
-            description: Self-service analytics platform
-            homepage_url: https://www.oracle.com/cloud/analytics-cloud/
-            logo: oci.svg
-          - name: Hadoop Distribution
-            description: Apache Hadoop on OCI
-            homepage_url: https://www.oracle.com/cloud/big-data/hadoop/
-            logo: oci.svg
-          - name: Spark Cluster
-            description: Apache Spark clusters
-            homepage_url: https://www.oracle.com/cloud/big-data/spark/
-            logo: oci.svg
-
-      - name: AI/ML Services
-        items:
-          - name: Generative AI Service
-            description: Generative AI capabilities
-            homepage_url: https://www.oracle.com/cloud/generative-ai/
-            logo: oci.svg
-          - name: Data Science
-            description: End-to-end machine learning platform
-            homepage_url: https://www.oracle.com/cloud/data-science/
-            logo: oci.svg
-          - name: Machine Learning
-            description: Machine learning services
-            homepage_url: https://www.oracle.com/cloud/machine-learning/
-            logo: oci.svg
-          - name: Vision AI
-            description: Image recognition and analysis
-            homepage_url: https://www.oracle.com/cloud/vision-ai/
-            logo: oci.svg
-          - name: Language Processing
-            description: Natural language processing services
-            homepage_url: https://www.oracle.com/cloud/language-processing/
-            logo: oci.svg
-          - name: Digital Assistant
-            description: AI-powered conversational assistant
-            homepage_url: https://www.oracle.com/cloud/digital-assistant/
-            logo: oci.svg
-          - name: Anomaly Detection
-            description: Detect anomalies in data
-            homepage_url: https://www.oracle.com/cloud/anomaly-detection/
-            logo: oci.svg
-
-      - name: Networking & Content Delivery
-        items:
-          - name: Virtual Cloud Network
-            description: Isolated virtual network
-            homepage_url: https://www.oracle.com/cloud/networking/virtual-cloud-network/
-            logo: oci.svg
-          - name: Internet Gateway
-            description: Connection to the internet
-            homepage_url: https://www.oracle.com/cloud/networking/internet-gateway/
-            logo: oci.svg
-          - name: NAT Gateway
-            description: Network address translation
-            homepage_url: https://www.oracle.com/cloud/networking/nat-gateway/
-            logo: oci.svg
-          - name: Load Balancer
-            description: Load balancing service
-            homepage_url: https://www.oracle.com/cloud/networking/load-balancer/
-            logo: oci.svg
-          - name: Network Load Balancer
-            description: Ultra-high performance load balancer
-            homepage_url: https://www.oracle.com/cloud/networking/network-load-balancer/
-            logo: oci.svg
-          - name: Content Delivery Network
-            description: Global content delivery
-            homepage_url: https://www.oracle.com/cloud/networking/content-delivery-network/
-            logo: oci.svg
-          - name: DRG (Dynamic Routing Gateway)
-            description: Enterprise routing gateway
-            homepage_url: https://www.oracle.com/cloud/networking/dynamic-routing-gateway/
-            logo: oci.svg
-          - name: FastConnect
-            description: Dedicated network connection
-            homepage_url: https://www.oracle.com/cloud/networking/fastconnect/
-            logo: oci.svg
-          - name: VPN Connect
-            description: VPN connectivity
-            homepage_url: https://www.oracle.com/cloud/networking/vpn-connect/
-            logo: oci.svg
-          - name: Service Gateway
-            description: Private connectivity to OCI services
-            homepage_url: https://www.oracle.com/cloud/networking/service-gateway/
-            logo: oci.svg
-
-      - name: Data Integration & Migration
-        items:
-          - name: GoldenGate
-            description: Real-time data integration
-            homepage_url: https://www.oracle.com/cloud/goldengate/
-            logo: oci.svg
-          - name: GoldenGate for Big Data
-            description: Real-time data integration for big data
-            homepage_url: https://www.oracle.com/cloud/goldengate-for-big-data/
-            logo: oci.svg
-          - name: Data Pump
-            description: High-capacity data export and import
-            homepage_url: https://www.oracle.com/cloud/data-pump/
-            logo: oci.svg
-          - name: Data Integration Platform
-            description: Cloud-native data integration
-            homepage_url: https://www.oracle.com/cloud/data-integration/
-            logo: oci.svg
-          - name: Dataflow
-            description: Serverless data transformation
-            homepage_url: https://www.oracle.com/cloud/dataflow/
-            logo: oci.svg
-          - name: Event Streaming
-            description: Real-time event streaming
-            homepage_url: https://www.oracle.com/cloud/streaming/
-            logo: oci.svg
-          - name: Service Connector Hub
-            description: Route cloud messages between services
-            homepage_url: https://www.oracle.com/cloud/service-connector-hub/
-            logo: oci.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Google Workspace
+            description: Productivity suite with Gmail, Drive, and Docs
+            homepage_url: https://workspace.google.com/
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud IoT
+            description: Managed IoT platform for device connectivity
+            homepage_url: https://cloud.google.com/iot
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Google Cloud Security Command Center
+            description: Centralized security and compliance management
+            homepage_url: https://cloud.google.com/security-command-center
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Vertex AI Search and Conversation
+            description: Build generative AI search and chat applications
+            homepage_url: https://cloud.google.com/products/discovery-ai
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Key Management Service
+            description: Manage encryption keys
+            homepage_url: https://cloud.google.com/kms
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Audit Logs
+            description: Track administrative and data access logs
+            homepage_url: https://cloud.google.com/audit-logs
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: VPC Service Controls
+            description: Enforce security boundaries
+            homepage_url: https://cloud.google.com/vpc-service-controls
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Asset Inventory
+            description: Discover and manage cloud resources
+            homepage_url: https://cloud.google.com/asset-inventory
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
       - name: OCI Applications
         items:
           - name: Oracle Cloud Marketplace
             description: Third-party software and applications for Oracle Cloud
             homepage_url: https://cloudmarketplace.oracle.com/
-            logo: oci.svg
+            logo: https://www.oracle.com/favicon.ico
           - name: Oracle Cloud Applications (Fusion)
             description: Enterprise applications for ERP, HCM and CX
             homepage_url: https://www.oracle.com/applications/
-            logo: oci.svg
-
-  - name: IBM Cloud
-    subcategories:
-      - name: Compute Services
-        items:
-          - name: Virtual Servers
-            description: Scalable virtual machines on demand
-            homepage_url: https://www.ibm.com/cloud/virtual-servers
-            logo: ibm.svg
-          - name: Cloud Functions
-            description: Serverless compute for event-driven workloads
-            homepage_url: https://www.ibm.com/cloud/functions
-            logo: ibm.svg
-          - name: Code Engine
-            description: Fully managed serverless platform
-            homepage_url: https://www.ibm.com/cloud/code-engine
-            logo: ibm.svg
-          - name: OpenShift on IBM Cloud
-            description: Managed container orchestration with Red Hat OpenShift
-            homepage_url: https://www.ibm.com/cloud/openshift
-            logo: ibm.svg
-          - name: Bare Metal Servers
-            description: Single-tenant dedicated servers
-            homepage_url: https://www.ibm.com/cloud/bare-metal
-            logo: ibm.svg
-          - name: Hyper Protect Servers
-            description: Ultra-secure dedicated servers
-            homepage_url: https://www.ibm.com/cloud/hyper-protect
-            logo: ibm.svg
-          - name: Power Virtual Servers
-            description: POWER processors-based virtual servers
-            homepage_url: https://www.ibm.com/cloud/power-virtual-servers
-            logo: ibm.svg
-          - name: Satellite
-            description: Hybrid and edge computing across on-premises and public clouds
-            homepage_url: https://www.ibm.com/cloud/satellite
-            logo: ibm.svg
-
-      - name: Storage Services
-        items:
-          - name: Cloud Object Storage
-            description: Scalable object storage service
-            homepage_url: https://www.ibm.com/cloud/object-storage
-            logo: ibm.svg
-          - name: Block Storage
-            description: Persistent block storage volumes
-            homepage_url: https://www.ibm.com/cloud/block-storage
-            logo: ibm.svg
-          - name: File Storage
-            description: Fully managed NFS file system
-            homepage_url: https://www.ibm.com/cloud/file-storage
-            logo: ibm.svg
-          - name: Backup & Restore
-            description: Data protection and recovery
-            homepage_url: https://www.ibm.com/cloud/backup-restore
-            logo: ibm.svg
-          - name: Cloud Backup
-            description: Simple cloud backup service
-            homepage_url: https://www.ibm.com/cloud/backup
-            logo: ibm.svg
-          - name: Aspera High-Speed Transfer
-            description: Fast and reliable data transfer
-            homepage_url: https://www.ibm.com/cloud/aspera
-            logo: ibm.svg
-
-      - name: Database Services
-        items:
-          - name: Db2
-            description: IBM's relational database
-            homepage_url: https://www.ibm.com/cloud/db2
-            logo: ibm.svg
-          - name: Db2 Warehouse
-            description: Data warehouse and analytics database
-            homepage_url: https://www.ibm.com/cloud/db2-warehouse
-            logo: ibm.svg
-          - name: Cloudant
-            description: Fully managed NoSQL database
-            homepage_url: https://www.ibm.com/cloud/cloudant
-            logo: ibm.svg
-          - name: MongoDB
-            description: Managed MongoDB database service
-            homepage_url: https://www.ibm.com/cloud/mongodb
-            logo: ibm.svg
-          - name: PostgreSQL
-            description: Managed PostgreSQL database service
-            homepage_url: https://www.ibm.com/cloud/postgresql
-            logo: ibm.svg
-          - name: MySQL
-            description: Managed MySQL database service
-            homepage_url: https://www.ibm.com/cloud/mysql
-            logo: ibm.svg
-          - name: Data Warehouse
-            description: Enterprise data warehousing
-            homepage_url: https://www.ibm.com/cloud/data-warehouse
-            logo: ibm.svg
-          - name: Db2 Database Recovery
-            description: Disaster recovery for Db2
-            homepage_url: https://www.ibm.com/cloud/db2-recovery
-            logo: ibm.svg
-          - name: Redis
-            description: In-memory data store and cache
-            homepage_url: https://www.ibm.com/cloud/redis
-            logo: ibm.svg
-
-      - name: Analytics Services
-        items:
-          - name: Db2 Warehouse
-            description: Data warehouse and analytics database
-            homepage_url: https://www.ibm.com/cloud/db2-warehouse
-            logo: ibm.svg
-          - name: Datastax
-            description: Apache Cassandra platform
-            homepage_url: https://www.ibm.com/cloud/datastax
-            logo: ibm.svg
-          - name: Apache Spark
-            description: Managed Apache Spark service
-            homepage_url: https://www.ibm.com/cloud/spark
-            logo: ibm.svg
-          - name: Streaming Analytics
-            description: Real-time stream processing
-            homepage_url: https://www.ibm.com/cloud/streaming-analytics
-            logo: ibm.svg
-          - name: Watson Studio
-            description: Enterprise data science platform
-            homepage_url: https://www.ibm.com/cloud/watson-studio
-            logo: ibm.svg
-          - name: Planning Analytics
-            description: Corporate planning and analytics
-            homepage_url: https://www.ibm.com/cloud/planning-analytics
-            logo: ibm.svg
-          - name: Cognos Analytics
-            description: Business intelligence and analytics
-            homepage_url: https://www.ibm.com/cloud/cognos-analytics
-            logo: ibm.svg
-
-      - name: AI/ML Services
-        items:
-          - name: Watson AI
-            description: AI services and tools from IBM
-            homepage_url: https://www.ibm.com/cloud/watson
-            logo: ibm.svg
-          - name: Watson Machine Learning
-            description: Machine learning platform
-            homepage_url: https://www.ibm.com/cloud/watson-machine-learning
-            logo: ibm.svg
-          - name: Watson Natural Language Understanding
-            description: Analyze text and extract insights
-            homepage_url: https://www.ibm.com/cloud/watson-natural-language-understanding
-            logo: ibm.svg
-          - name: Watson Computer Vision
-            description: Image and video analysis
-            homepage_url: https://www.ibm.com/cloud/watson-computer-vision
-            logo: ibm.svg
-          - name: Watson Speech to Text
-            description: Convert speech to text
-            homepage_url: https://www.ibm.com/cloud/watson-speech-to-text
-            logo: ibm.svg
-          - name: Watson Text to Speech
-            description: Convert text to speech
-            homepage_url: https://www.ibm.com/cloud/watson-text-to-speech
-            logo: ibm.svg
-          - name: Watson Assistant
-            description: Build conversational AI
-            homepage_url: https://www.ibm.com/cloud/watson-assistant
-            logo: ibm.svg
-          - name: Watson Knowledge Studio
-            description: Train custom ML models
-            homepage_url: https://www.ibm.com/cloud/watson-knowledge-studio
-            logo: ibm.svg
-          - name: Watson OpenScale
-            description: Monitor ML model performance
-            homepage_url: https://www.ibm.com/cloud/watson-openscale
-            logo: ibm.svg
-
-      - name: Networking & Content Delivery
-        items:
-          - name: VPC
-            description: Isolated virtual private cloud
-            homepage_url: https://www.ibm.com/cloud/vpc
-            logo: ibm.svg
-          - name: Load Balancer
-            description: Load balancing service
-            homepage_url: https://www.ibm.com/cloud/load-balancer
-            logo: ibm.svg
-          - name: Direct Link
-            description: Dedicated network connection
-            homepage_url: https://www.ibm.com/cloud/direct-link
-            logo: ibm.svg
-          - name: Transit Gateway
-            description: Connect networks across regions
-            homepage_url: https://www.ibm.com/cloud/transit-gateway
-            logo: ibm.svg
-          - name: CDN
-            description: Content delivery network
-            homepage_url: https://www.ibm.com/cloud/cdn
-            logo: ibm.svg
-          - name: Internet Services
-            description: DDoS, WAF, and DNS services
-            homepage_url: https://www.ibm.com/cloud/internet-services
-            logo: ibm.svg
-          - name: Virtual Private Endpoint
-            description: Private endpoint connectivity
-            homepage_url: https://www.ibm.com/cloud/virtual-private-endpoint
-            logo: ibm.svg
-
-      - name: Data Integration & Migration
-        items:
-          - name: Db2 Replication
-            description: Data replication for Db2
-            homepage_url: https://www.ibm.com/cloud/db2-replication
-            logo: ibm.svg
-          - name: InfoSphere DataStax
-            description: Enterprise data integration
-            homepage_url: https://www.ibm.com/cloud/infosphere
-            logo: ibm.svg
-          - name: Streaming Analytics
-            description: Real-time stream processing
-            homepage_url: https://www.ibm.com/cloud/streaming-analytics
-            logo: ibm.svg
-          - name: Cloud Pak for Data
-            description: Unified data platform
-            homepage_url: https://www.ibm.com/cloud/cloud-pak-for-data
-            logo: ibm.svg
-          - name: Event Streams
-            description: Managed Apache Kafka
-            homepage_url: https://www.ibm.com/cloud/event-streams
-            logo: ibm.svg
-          - name: MQ
-            description: Managed message queuing
-            homepage_url: https://www.ibm.com/cloud/mq
-            logo: ibm.svg
-          - name: App Connect
-            description: Hybrid integration platform for APIs and integrations
-            homepage_url: https://www.ibm.com/cloud/app-connect
-            logo: ibm.svg
-          - name: API Gateway
-            description: Create, manage, and deploy APIs
-            homepage_url: https://www.ibm.com/cloud/api-gateway
-            logo: ibm.svg
-
-      - name: Observability & Monitoring
-        items:
-          - name: Activity Tracker
-            description: Track user and application activity for compliance and auditing
-            homepage_url: https://www.ibm.com/cloud/activity-tracker
-            logo: ibm.svg
-          - name: Logging
-            description: Log collection, search, and analysis service
-            homepage_url: https://www.ibm.com/cloud/logging
-            logo: ibm.svg
-          - name: Cloud Monitoring
-            description: Monitor metrics and performance of cloud resources
-            homepage_url: https://www.ibm.com/cloud/monitoring
-            logo: ibm.svg
-          - name: Cloud Debugger
-            description: Debug applications in cloud environments
-            homepage_url: https://www.ibm.com/cloud/cloud-debugger
-            logo: ibm.svg
-          - name: Instana
-            description: AI-powered observability and monitoring
-            homepage_url: https://www.ibm.com/cloud/instana
-            logo: ibm.svg
-
-      - name: Security Services
-        items:
-          - name: Key Protect
-            description: Hardware security module service for key management
-            homepage_url: https://www.ibm.com/cloud/key-protect
-            logo: ibm.svg
-          - name: Secrets Manager
-            description: Manage secrets and credentials securely
-            homepage_url: https://www.ibm.com/cloud/secrets-manager
-            logo: ibm.svg
-          - name: Identity and Access Management
-            description: Control user access and permissions
-            homepage_url: https://www.ibm.com/cloud/iam
-            logo: ibm.svg
-          - name: App ID
-            description: User identity and access management for applications
-            homepage_url: https://www.ibm.com/cloud/app-id
-            logo: ibm.svg
-          - name: Cloud HSM
-            description: Dedicated hardware security module for key management
-            homepage_url: https://www.ibm.com/cloud/hsm
-            logo: ibm.svg
-          - name: Hyper Protect DBaaS
-            description: Database as a service with encryption and isolation
-            homepage_url: https://www.ibm.com/cloud/hyper-protect
-            logo: ibm.svg
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Autonomous Linux
+            description: Self-managing operating system
+            homepage_url: https://www.oracle.com/linux/autonomous-linux/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle IoT
+            description: IoT platform for connected devices
+            homepage_url: https://www.oracle.com/cloud/iot/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Security Cloud
+            description: Unified security and compliance platform
+            homepage_url: https://www.oracle.com/security/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Key Management
+            description: Hardware security module for key management
+            homepage_url: https://www.oracle.com/cloud/key-management/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Cloud Guard
+            description: Threat detection and response
+            homepage_url: https://www.oracle.com/cloud/guard/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Configuration and Compliance
+            description: Track and manage cloud resource compliance
+            homepage_url: https://www.oracle.com/cloud/compliance/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle License Management Services
+            description: Optimize Oracle license usage in cloud
+            homepage_url: https://www.oracle.com/cloud/license-management/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Integration Cloud
+            description: Enterprise integration platform as a service
+            homepage_url: https://www.oracle.com/integration/
+            logo: https://www.oracle.com/favicon.ico
 
       - name: IBM Applications
         items:
           - name: QRadar
             description: Security information and event management (SIEM)
             homepage_url: https://www.ibm.com/security/qradar
-            logo: ibm.svg
+            logo: https://www.ibm.com/favicon.ico
           - name: IBM Cloud Pak for Security
             description: Integrated security platform and applications
             homepage_url: https://www.ibm.com/products/ibm-cloud-pak-for-security
-            logo: ibm.svg
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM MobileFirst
+            description: Mobile app development and management platform
+            homepage_url: https://www.ibm.com/mobilefirst/
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Pak for Integration
+            description: Enterprise integration platform
+            homepage_url: https://www.ibm.com/cloud/paks/integration
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Pak for Automation
+            description: Intelligent automation platform
+            homepage_url: https://www.ibm.com/cloud/paks/automation
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Pak for Data
+            description: Unified data and AI platform
+            homepage_url: https://www.ibm.com/cloud/cloud-pak-for-data
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Pak for Business Automation
+            description: Workflow and case management
+            homepage_url: https://www.ibm.com/cloud/paks/business-automation
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Control Tower
+            description: Cloud governance and compliance management
+            homepage_url: https://www.ibm.com/cloud/governance
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Maximo
+            description: Asset management and maintenance optimization
+            homepage_url: https://www.ibm.com/maximo/
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM SPSS Statistics
+            description: Statistical analysis and predictive analytics
+            homepage_url: https://www.ibm.com/products/spss-statistics
+            logo: https://www.ibm.com/favicon.ico
 
   - name: Cross-Cloud Services
     subcategories:
@@ -1736,57 +1396,76 @@ categories:
           - name: VPC/VNet Networking
             description: Virtual private network solutions available across all cloud providers
             homepage_url: https://cloud.google.com/vpc
-            logo: network.svg
+            logo: https://cdn-icons-png.flaticon.com/512/545/545705.png
           - name: Load Balancing
             description: Traffic distribution services across providers
             homepage_url: https://aws.amazon.com/elasticloadbalancing/
-            logo: network.svg
+            logo: https://cdn-icons-png.flaticon.com/512/545/545705.png
           - name: DNS & CDN
             description: Global DNS and content delivery capabilities
             homepage_url: https://aws.amazon.com/route53/
-            logo: network.svg
+            logo: https://cdn-icons-png.flaticon.com/512/545/545705.png
 
       - name: Multi-Cloud Security
         items:
           - name: Identity & Access Management
             description: Fine-grained access control across platforms
             homepage_url: https://aws.amazon.com/iam/
-            logo: security.svg
+            logo: https://cdn-icons-png.flaticon.com/512/3143/3143615.png
           - name: Encryption & Key Management
             description: Data protection and cryptographic key management
             homepage_url: https://aws.amazon.com/kms/
-            logo: security.svg
+            logo: https://cdn-icons-png.flaticon.com/512/3143/3143615.png
           - name: Compliance & Auditing
             description: Governance, compliance monitoring, and audit trails
             homepage_url: https://aws.amazon.com/cloudtrail/
-            logo: security.svg
+            logo: https://cdn-icons-png.flaticon.com/512/3143/3143615.png
 
       - name: Multi-Cloud Analytics
         items:
           - name: Data Warehousing
             description: Large-scale data analytics across providers
             homepage_url: https://aws.amazon.com/redshift/
-            logo: analytics.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4436/4436481.png
           - name: Stream Processing
             description: Real-time data processing capabilities
             homepage_url: https://aws.amazon.com/kinesis/
-            logo: analytics.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4436/4436481.png
           - name: Machine Learning
             description: ML and AI services across all providers
             homepage_url: https://aws.amazon.com/sagemaker/
-            logo: analytics.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4436/4436481.png
 
       - name: Integration & DevOps
         items:
           - name: CI/CD Pipelines
             description: Continuous integration and deployment across clouds
             homepage_url: https://aws.amazon.com/codepipeline/
-            logo: devops.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
           - name: Infrastructure as Code
             description: IaC tools for multi-cloud deployments
             homepage_url: https://www.terraform.io/
-            logo: iac.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
           - name: Monitoring & Observability
             description: Cross-cloud monitoring and logging
             homepage_url: https://aws.amazon.com/cloudwatch/
-            logo: monitoring.svg
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+
+      - name: Satellite & Edge Computing
+        items:
+          - name: Satellite Connectivity
+            description: LEO and GEO satellite services across providers
+            homepage_url: https://aws.amazon.com/leo/
+            logo: https://cdn-icons-png.flaticon.com/512/1995/1995506.png
+          - name: Ground Stations
+            description: Managed ground station services for satellite operations
+            homepage_url: https://aws.amazon.com/ground-station/
+            logo: https://cdn-icons-png.flaticon.com/512/1995/1995506.png
+          - name: Edge Computing
+            description: Ultra-low latency computing at network edge
+            homepage_url: https://azure.microsoft.com/services/edge-zones/
+            logo: https://cdn-icons-png.flaticon.com/512/1995/1995506.png
+          - name: IoT Connectivity
+            description: Connect remote devices via satellite and edge networks
+            homepage_url: https://www.ibm.com/cloud/satellite
+            logo: https://cdn-icons-png.flaticon.com/512/1995/1995506.png
