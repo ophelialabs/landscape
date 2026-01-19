@@ -1,4 +1,5 @@
  - https://ophelialabs.github.io/landscape/
+ - https://jlabclouds.github.io/tools-landscape/
  - https://landscape.cncf.io/
  - https://github.com/cncf/landscape2/blob/main/ADOPTERS.md
 
@@ -12,11 +13,6 @@
  - ROS
 - Q#
 - Julia
-
-## 2. Tools Landscape
- - https://jupyterbook.org/stable/
- - https://plutojl.org/en/docs/plutopages/
- - https://raw.githubusercontent.com/ophelialabs/ophelialabs.github.io/refs/heads/main/pages/name/tools-list.html
 
 # Unified Cloud Landscape
 
