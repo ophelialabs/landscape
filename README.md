@@ -1,18 +1,8 @@
  - https://ophelialabs.github.io/landscape/
  - https://jlabclouds.github.io/tools-landscape/
+ - https://jlabclouds.github.io/framework-landscape
  - https://landscape.cncf.io/
  - https://github.com/cncf/landscape2/blob/main/ADOPTERS.md
-
-## 1. Framework Landscape
-**Each framework should be its own category with a comprehensive list of tools for the frameworks respective ecosystem:**
- - Java (Spring Initializr, Spring Boot, J2EE, Maven/Gradle, Microservices, etc)
- - .NET
- - Python (Flask, Server: Tomcat, UWSGI, etc)
- - Rust
- - CMake
- - ROS
-- Q#
-- Julia
 
 # Unified Cloud Landscape
 
