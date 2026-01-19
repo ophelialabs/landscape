@@ -1894,3 +1894,171 @@ categories:
             description: Connect remote devices via satellite and edge networks
             homepage_url: https://www.ibm.com/cloud/satellite
             logo: https://cdn-icons-png.flaticon.com/512/1995/1995506.png
+
+  - name: Pipelines
+    subcategories:
+      - name: AWS Data Pipelines
+        items:
+          - name: AWS Data Pipeline
+            description: Web service for orchestrating data workflows and ETL processes
+            homepage_url: https://aws.amazon.com/datapipeline/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Step Functions
+            description: Serverless workflow orchestration for coordinating AWS services
+            homepage_url: https://aws.amazon.com/stepfunctions/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS Glue Workflows
+            description: Visual orchestration of ETL and data integration jobs
+            homepage_url: https://aws.amazon.com/glue/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+          - name: AWS CodePipeline
+            description: Fully managed continuous delivery pipeline service
+            homepage_url: https://aws.amazon.com/codepipeline/
+            logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+
+      - name: Azure Data Pipelines & Automation
+        items:
+          - name: Azure Data Factory Pipelines
+            description: Cloud-based data integration with pipeline orchestration
+            homepage_url: https://azure.microsoft.com/services/data-factory/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure Synapse Pipelines
+            description: Unified analytics pipelines with orchestration capabilities
+            homepage_url: https://azure.microsoft.com/services/synapse-analytics/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Power Automate
+            description: Build automated workflows across cloud applications and services
+            homepage_url: https://powerautomate.microsoft.com/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Azure DevOps Pipelines
+            description: CI/CD pipeline service for building and deploying applications
+            homepage_url: https://azure.microsoft.com/services/devops/pipelines/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: SharePoint Workflows
+            description: Automate business processes within SharePoint
+            homepage_url: https://www.microsoft.com/microsoft-365/sharepoint/workflows
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Power Pages
+            description: Build business-focused portal and app sites with low-code
+            homepage_url: https://powerpages.microsoft.com/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Entra ID (Azure AD)
+            description: Identity and access management for pipeline authentication
+            homepage_url: https://www.microsoft.com/security/business/microsoft-entra
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Power Automate Desktop Flows
+            description: Robotic process automation for enterprise pipelines
+            homepage_url: https://powerautomate.microsoft.com/desktop-flows/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Dynamics 365 Workflows
+            description: Business process automation pipelines in Dynamics
+            homepage_url: https://dynamics.microsoft.com/business-central/
+            logo: https://www.microsoft.com/favicon.ico
+          - name: Microsoft Teams Integration
+            description: Pipeline automation through Teams workflows and connectors
+            homepage_url: https://www.microsoft.com/microsoft-teams/
+            logo: https://www.microsoft.com/favicon.ico
+
+      - name: Google Cloud Pipelines
+        items:
+          - name: Cloud Composer
+            description: Fully managed Apache Airflow service for workflow orchestration
+            homepage_url: https://cloud.google.com/composer
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Dataflow
+            description: Unified stream and batch data processing pipelines
+            homepage_url: https://cloud.google.com/dataflow
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Build
+            description: Fully managed CI/CD platform for building and deploying
+            homepage_url: https://cloud.google.com/build
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Vertex AI Pipelines
+            description: Serverless ML pipeline orchestration and management
+            homepage_url: https://cloud.google.com/vertex-ai/docs/pipelines
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+          - name: Cloud Workflows
+            description: Orchestrate cloud services and APIs in a serverless manner
+            homepage_url: https://cloud.google.com/workflows
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+
+      - name: Oracle Cloud Pipelines
+        items:
+          - name: Oracle Data Integration
+            description: Cloud-based data integration and ETL pipelines
+            homepage_url: https://www.oracle.com/cloud/data-integration/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle GoldenGate
+            description: Real-time data replication and pipeline orchestration
+            homepage_url: https://www.oracle.com/middleware/goldengate/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Resource Manager
+            description: Infrastructure automation and pipeline orchestration
+            homepage_url: https://www.oracle.com/cloud/resource-manager/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Oracle Cloud Pipelines
+            description: Build and deployment pipeline automation
+            homepage_url: https://www.oracle.com/devops/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: IBM Cloud Pipelines
+        items:
+          - name: IBM Cloud Toolchain
+            description: Integrated toolchain for DevOps pipeline management
+            homepage_url: https://www.ibm.com/cloud/devops/toolchain
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Continuous Delivery
+            description: Continuous integration and delivery pipeline service
+            homepage_url: https://www.ibm.com/cloud/continuous-delivery
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Data Integration
+            description: Data pipeline and workflow orchestration
+            homepage_url: https://www.ibm.com/cloud/data-integration
+            logo: https://www.ibm.com/favicon.ico
+          - name: IBM Cloud Pak for Integration
+            description: Enterprise integration platform with pipeline capabilities
+            homepage_url: https://www.ibm.com/cloud/paks/integration
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Broadcom Pipeline Solutions
+        items:
+          - name: VMware Aria Automation
+            description: Infrastructure automation and orchestration pipelines
+            homepage_url: https://www.vmware.com/products/aria/automation.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Workload Automation
+            description: Enterprise batch and workflow pipeline scheduling
+            homepage_url: https://www.broadcom.com/products/automation
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Tanzu Integration Hub
+            description: Enterprise integration pipelines and API orchestration
+            homepage_url: https://tanzu.vmware.com/integration
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Enterprise Service Bus
+            description: Message-oriented pipeline middleware
+            homepage_url: https://www.broadcom.com/products/middleware/esb
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Multi-Cloud Pipeline Integration
+        items:
+          - name: Apache Airflow
+            description: Open-source workflow orchestration for multi-cloud pipelines
+            homepage_url: https://airflow.apache.org/
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+          - name: Kubernetes Workflows
+            description: Container-native pipeline orchestration across clouds
+            homepage_url: https://kubernetes.io/docs/concepts/workloads/
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+          - name: Terraform Automation
+            description: Infrastructure-as-code pipeline automation
+            homepage_url: https://www.terraform.io/
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+          - name: Jenkins
+            description: Open-source automation server for CI/CD pipelines
+            homepage_url: https://www.jenkins.io/
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+          - name: GitLab CI/CD
+            description: Integrated CI/CD pipeline platform
+            homepage_url: https://docs.gitlab.com/ee/ci/
+            logo: https://cdn-icons-png.flaticon.com/512/4158/4158410.png
+
