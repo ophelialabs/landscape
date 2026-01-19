@@ -49,9 +49,6 @@ groups:
       - Oracle Cloud Infrastructure
       - IBM Cloud
       - Broadcom
-  - name: Cross-Cloud Capabilities
-    categories:
-      - Cross-Cloud Services
   - name: Applications and Programs
     categories:
       - AWS Applications
@@ -60,6 +57,18 @@ groups:
       - OCI Applications
       - IBM Applications
       - Broadcom Applications
+  - name: Cross-Cloud Capabilities
+    categories:
+      - Cross-Cloud Services
+  - name: Pipelines
+    categories:
+      - AWS Pipelines
+      - Azure Data Pipelines
+      - Google Cloud Pipelines
+      - Oracle Cloud Pipelines
+      - IBM Cloud Pipelines
+      - Broadcom Pipeline Solutions
+      - Multi-Cloud Pipeline Integration
 
 header:
   links:
