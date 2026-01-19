@@ -1100,7 +1100,7 @@ categories:
           - name: Cloud Vision
             description: Analyze images and extract text
             homepage_url: https://cloud.google.com/vision
-            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
+            logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg          
           - name: Contact Center AI
             description: AI solutions for contact centers
             homepage_url: https://cloud.google.com/solutions/contact-center
@@ -1388,6 +1388,173 @@ categories:
             description: Statistical analysis and predictive analytics
             homepage_url: https://www.ibm.com/products/spss-statistics
             logo: https://www.ibm.com/favicon.ico
+
+  - name: Broadcom
+    subcategories:
+      - name: Infrastructure Software
+        items:
+          - name: VMware vSphere
+            description: Enterprise virtualization platform for server consolidation
+            homepage_url: https://www.vmware.com/products/vsphere.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware vCloud Director
+            description: Cloud infrastructure platform for multi-tenant environments
+            homepage_url: https://www.vmware.com/products/cloud-infrastructure/vcloud-director.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware NSX
+            description: Network virtualization and security platform
+            homepage_url: https://www.vmware.com/products/nsx.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware vSAN
+            description: Software-defined storage for virtualized environments
+            homepage_url: https://www.vmware.com/products/vsan.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Aria Operations
+            description: Intelligent operations and monitoring platform
+            homepage_url: https://www.vmware.com/products/aria/operations.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Aria Automation
+            description: Infrastructure automation and lifecycle management
+            homepage_url: https://www.vmware.com/products/aria/automation.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Tanzu
+            description: Enterprise container and Kubernetes platform
+            homepage_url: https://tanzu.vmware.com/
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Kubernetes Engine
+            description: Managed Kubernetes service powered by Broadcom
+            homepage_url: https://www.vmware.com/products/cloud-infrastructure/kubernetes-engine.html
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Security & Compliance
+        items:
+          - name: VMware Carbon Black Cloud
+            description: Endpoint detection and response platform
+            homepage_url: https://www.broadcom.com/products/cybersecurity/carbon-black
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware NSX Security
+            description: Microsegmentation and network security
+            homepage_url: https://www.vmware.com/products/nsx.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Secure Web Gateway
+            description: Cloud-based web security and data loss prevention
+            homepage_url: https://www.broadcom.com/products/cybersecurity/secure-web-gateway
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Identity & Access Management
+            description: Enterprise identity and access governance
+            homepage_url: https://www.broadcom.com/products/cybersecurity/identity-governance
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Encryption & Key Management
+            description: Data encryption and cryptographic key management
+            homepage_url: https://www.broadcom.com/products/cybersecurity/encryption
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Management & Operations
+        items:
+          - name: VMware Skyline
+            description: Proactive support and optimization platform
+            homepage_url: https://www.vmware.com/products/skyline.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Aria Cost
+            description: Cloud cost management and optimization
+            homepage_url: https://www.vmware.com/products/aria/cost.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Aria Automation Orchestration
+            description: Multi-cloud orchestration engine
+            homepage_url: https://www.vmware.com/products/aria/automation.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Workload Automation
+            description: Enterprise batch and workload scheduling
+            homepage_url: https://www.broadcom.com/products/automation
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Service Management
+            description: IT service management and ITSM solutions
+            homepage_url: https://www.broadcom.com/products/it-service-management
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Data & Analytics
+        items:
+          - name: Broadcom Mainframe Data Solutions
+            description: Data management for mainframe environments
+            homepage_url: https://www.broadcom.com/products/mainframe/data
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom IDMS
+            description: Integrated database management system
+            homepage_url: https://www.broadcom.com/products/mainframe/idms
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Gen
+            description: Generational database and DASD management
+            homepage_url: https://www.broadcom.com/products/mainframe/gen
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Analytics & Reporting
+            description: Business intelligence and analytics tools
+            homepage_url: https://www.broadcom.com/products/analytics
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Application Development
+        items:
+          - name: VMware Spring
+            description: Open source application development framework
+            homepage_url: https://spring.io/
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Tanzu Application Service
+            description: Platform for building and deploying applications
+            homepage_url: https://tanzu.vmware.com/application-service
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Mainframe Software Development Kit
+            description: SDK for mainframe application development
+            homepage_url: https://www.broadcom.com/products/mainframe/development
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Application Dependency Mapping
+            description: Application architecture and dependency visualization
+            homepage_url: https://www.broadcom.com/products/application-dependency-mapping
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Integration & Middleware
+        items:
+          - name: VMware Tanzu Integration Hub
+            description: Enterprise integration and API management
+            homepage_url: https://tanzu.vmware.com/integration
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Enterprise Service Bus
+            description: Message-oriented middleware platform
+            homepage_url: https://www.broadcom.com/products/middleware/esb
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom CICS
+            description: Customer Information Control System for transaction processing
+            homepage_url: https://www.broadcom.com/products/mainframe/cics
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom API Gateway
+            description: Enterprise API management and gateway
+            homepage_url: https://www.broadcom.com/products/middleware/api-gateway
+            logo: https://www.broadcom.com/favicon.ico
+
+      - name: Broadcom Applications
+        items:
+          - name: Broadcom Marketplace
+            description: Third-party software and solutions for Broadcom products
+            homepage_url: https://www.broadcom.com/marketplace
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware Horizon
+            description: Desktop and application virtualization
+            homepage_url: https://www.vmware.com/products/horizon.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Mainframe Solutions
+            description: Enterprise solutions for mainframe systems
+            homepage_url: https://www.broadcom.com/products/mainframe
+            logo: https://www.broadcom.com/favicon.ico
+          - name: VMware vRealize Suite
+            description: Unified management suite for infrastructure and applications
+            homepage_url: https://www.vmware.com/products/vrealize-suite.html
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Unified Communications
+            description: Enterprise communication platform
+            homepage_url: https://www.broadcom.com/products/communications
+            logo: https://www.broadcom.com/favicon.ico
+          - name: Broadcom Vulnerability Management
+            description: Enterprise vulnerability assessment and management
+            homepage_url: https://www.broadcom.com/products/cybersecurity/vulnerability-management
+            logo: https://www.broadcom.com/favicon.ico
 
   - name: Cross-Cloud Services
     subcategories:
