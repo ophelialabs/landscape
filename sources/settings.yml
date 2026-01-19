@@ -48,6 +48,7 @@ groups:
       - Google Cloud Platform
       - Oracle Cloud Infrastructure
       - IBM Cloud
+      - Broadcom
   - name: Cross-Cloud Capabilities
     categories:
       - Cross-Cloud Services
@@ -58,6 +59,7 @@ groups:
       - GCP Applications
       - OCI Applications
       - IBM Applications
+      - Broadcom Applications
 
 header:
   links:
