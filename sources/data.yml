@@ -12,6 +12,7 @@ categories:
           - name: Amazon EC2
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: Secure and resizable compute capacity with flexible instance types
+            pricing_url: https://aws.amazon.com/ec2/pricing/
             homepage_url: https://aws.amazon.com/ec2/
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/aws/images/favicons/onecloud/super_cloud.svg
             project: graduated
@@ -19,10 +20,12 @@ categories:
             twitter: https://twitter.com/awscloud
           - name: AWS Lambda
             description: Serverless compute for event-driven workloads
+            pricing_url: https://aws.amazon.com/lambda/pricing/
             homepage_url: https://aws.amazon.com/lambda/
             logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon ECS
             description: Fully managed container orchestration service
+            pricing_url: https://aws.amazon.com/ecs/pricing/
             homepage_url: https://aws.amazon.com/ecs/
             logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
           - name: Amazon EKS
@@ -67,6 +70,7 @@ categories:
           - name: Amazon S3
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: Scalable object storage service
+            pricing_url: https://aws.amazon.com/s3/pricing/
             homepage_url: https://aws.amazon.com/s3/
             logo: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
             project: graduated
@@ -446,51 +450,63 @@ categories:
           - name: Azure Virtual Machines
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Scalable computing resources with Windows or Linux
+            pricing_url: https://azure.microsoft.com/pricing/details/virtual-machines/
             homepage_url: https://azure.microsoft.com/services/virtual-machines/
             logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: App Service
             description: Build and host web apps, mobile backends, and RESTful APIs
+            pricing_url: https://azure.microsoft.com/pricing/details/app-service/
             homepage_url: https://azure.microsoft.com/services/app-service/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Functions
             description: Event-driven serverless compute
+            pricing_url: https://azure.microsoft.com/pricing/details/functions/
             homepage_url: https://azure.microsoft.com/services/functions/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Container Instances
             description: Serverless container deployment
+            pricing_url: https://azure.microsoft.com/pricing/details/container-instances/
             homepage_url: https://azure.microsoft.com/services/container-instances/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Kubernetes Service (AKS)
             description: Fully managed Kubernetes service
+            pricing_url: https://azure.microsoft.com/pricing/details/kubernetes-service/
             homepage_url: https://azure.microsoft.com/services/kubernetes-service/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Batch
             description: Large-scale parallel and high-performance computing
+            pricing_url: https://azure.microsoft.com/pricing/details/batch/
             homepage_url: https://azure.microsoft.com/services/batch/
             logo: https://www.microsoft.com/favicon.ico
           - name: Virtual Machine Scale Sets
             description: Automatically scale VMs based on demand
+            pricing_url: https://azure.microsoft.com/pricing/details/virtual-machine-scale-sets/
             homepage_url: https://azure.microsoft.com/services/virtual-machine-scale-sets/
             logo: https://www.microsoft.com/favicon.ico
           - name: Service Fabric
             description: Distributed systems platform for microservices
+            pricing_url: https://azure.microsoft.com/pricing/details/service-fabric/
             homepage_url: https://azure.microsoft.com/services/service-fabric/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Container Apps
             description: Build and deploy containerized apps on serverless platform
+            pricing_url: https://azure.microsoft.com/pricing/details/container-apps/
             homepage_url: https://azure.microsoft.com/services/container-apps/
             logo: https://www.microsoft.com/favicon.ico
           - name: Dedicated Hosts
             description: Dedicated physical servers for VMs
+            pricing_url: https://azure.microsoft.com/pricing/details/virtual-machines/dedicated-host/
             homepage_url: https://azure.microsoft.com/services/virtual-machines/dedicated-host/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure VMware Solution
             description: Run VMware workloads on Azure
+            pricing_url: https://azure.microsoft.com/pricing/details/azure-vmware/
             homepage_url: https://azure.microsoft.com/services/azure-vmware/
             logo: https://www.microsoft.com/favicon.ico
           - name: Azure Spot Virtual Machines
             description: Use unused Azure compute capacity at discounted rates
+            pricing_url: https://azure.microsoft.com/pricing/details/virtual-machines/spot/
             homepage_url: https://azure.microsoft.com/services/virtual-machines/spot/
             logo: https://www.microsoft.com/favicon.ico
 
@@ -499,39 +515,48 @@ categories:
           - name: Azure Blob Storage
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Massively scalable cloud object storage
+            pricing_url: https://azure.microsoft.com/pricing/details/storage/blobs/
             homepage_url: https://azure.microsoft.com/services/storage/blobs/
             logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: Disk Storage
             description: Block-level storage volumes for Azure VMs
+            pricing_url: https://azure.microsoft.com/pricing/details/managed-disks/
             homepage_url: https://azure.microsoft.com/services/managed-disks/
             logo: https://www.microsoft.com/favicon.ico
           - name: File Share
             description: Fully managed file shares accessible via SMB protocol
+            pricing_url: https://azure.microsoft.com/pricing/details/storage/files/
             homepage_url: https://azure.microsoft.com/services/storage/files/
             logo: https://www.microsoft.com/favicon.ico
           - name: Table Storage
             description: NoSQL key-value store for structured data
+            pricing_url: https://azure.microsoft.com/pricing/details/storage/tables/
             homepage_url: https://azure.microsoft.com/services/storage/tables/
             logo: https://www.microsoft.com/favicon.ico
           - name: Archive Storage
             description: Long-term retention storage with lowest cost
+            pricing_url: https://azure.microsoft.com/pricing/details/storage/archive/
             homepage_url: https://azure.microsoft.com/services/storage/archive/
             logo: https://www.microsoft.com/favicon.ico
           - name: Data Lake Storage
             description: Scalable secure data lake for analytics
+            pricing_url: https://azure.microsoft.com/pricing/details/storage/data-lake-storage/
             homepage_url: https://azure.microsoft.com/services/storage/data-lake-storage/
             logo: https://www.microsoft.com/favicon.ico
           - name: Managed Disks
             description: Persistent block storage for VMs
+            pricing_url: https://azure.microsoft.com/pricing/details/managed-disks/
             homepage_url: https://azure.microsoft.com/services/managed-disks/
             logo: https://www.microsoft.com/favicon.ico
           - name: Ultra Disks
             description: Ultra-high performance disk storage
+            pricing_url: https://azure.microsoft.com/pricing/details/managed-disks/ultra/
             homepage_url: https://azure.microsoft.com/services/managed-disks/ultra/
             logo: https://www.microsoft.com/favicon.ico
           - name: NetApp Files
             description: Enterprise-grade file sharing with NetApp
+            pricing_url: https://azure.microsoft.com/pricing/details/netapp/
             homepage_url: https://azure.microsoft.com/services/netapp/
             logo: https://www.microsoft.com/favicon.ico
 
@@ -540,43 +565,53 @@ categories:
           - name: Azure SQL Database
             crunchbase: https://www.crunchbase.com/organization/microsoft-azure
             description: Fully managed SQL Server database
+            pricing_url: https://azure.microsoft.com/pricing/details/sql-database/
             homepage_url: https://azure.microsoft.com/services/sql-database/
             logo: https://www.microsoft.com/favicon.ico
             project: graduated
           - name: Cosmos DB
             description: Globally distributed NoSQL database
+            pricing_url: https://azure.microsoft.com/pricing/details/cosmos-db/
             homepage_url: https://azure.microsoft.com/services/cosmos-db/
             logo: https://www.microsoft.com/favicon.ico
           - name: Database for MySQL
             description: Managed MySQL relational database
+            pricing_url: https://azure.microsoft.com/pricing/details/mysql/
             homepage_url: https://azure.microsoft.com/services/mysql/
             logo: https://www.microsoft.com/favicon.ico
           - name: Database for PostgreSQL
             description: Managed PostgreSQL relational database
+            pricing_url: https://azure.microsoft.com/pricing/details/postgresql/
             homepage_url: https://azure.microsoft.com/services/postgresql/
             logo: https://www.microsoft.com/favicon.ico
           - name: Database for MariaDB
             description: Managed MariaDB relational database
+            pricing_url: https://azure.microsoft.com/pricing/details/mariadb/
             homepage_url: https://azure.microsoft.com/services/mariadb/
             logo: https://www.microsoft.com/favicon.ico
           - name: HorizonDB
             description: Time series database for analytics
+            pricing_url: https://azure.microsoft.com/pricing/details/data-explorer/
             homepage_url: https://azure.microsoft.com/services/data-explorer/
             logo: https://www.microsoft.com/favicon.ico
           - name: Redis Cache
             description: In-memory data structure store
+            pricing_url: https://azure.microsoft.com/pricing/details/cache/
             homepage_url: https://azure.microsoft.com/services/cache/
             logo: https://www.microsoft.com/favicon.ico
           - name: SQL Managed Instance
             description: Managed SQL Server instance with high compatibility
+            pricing_url: https://azure.microsoft.com/pricing/details/sql-managed-instance/
             homepage_url: https://azure.microsoft.com/services/sql-managed-instance/
             logo: https://www.microsoft.com/favicon.ico
           - name: SQL Edge
             description: SQL database engine for edge computing
+            pricing_url: https://azure.microsoft.com/pricing/details/sql-edge/
             homepage_url: https://azure.microsoft.com/services/sql-edge/
             logo: https://www.microsoft.com/favicon.ico
           - name: Database Migration Service
             description: Migrate databases to Azure with minimal downtime
+            pricing_url: https://azure.microsoft.com/pricing/details/database-migration/
             homepage_url: https://azure.microsoft.com/services/database-migration/
             logo: https://www.microsoft.com/favicon.ico
 
@@ -833,44 +868,54 @@ categories:
         items:
           - name: Cloud Functions
             description: Serverless functions service
+            pricing_url: https://cloud.google.com/functions/pricing
             homepage_url: https://cloud.google.com/functions
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: App Engine
             description: Platform as a Service for web applications
+            pricing_url: https://cloud.google.com/appengine/pricing
             homepage_url: https://cloud.google.com/appengine
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Run
             description: Fully managed container platform
+            pricing_url: https://cloud.google.com/run/pricing
             homepage_url: https://cloud.google.com/run
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Kubernetes Engine (GKE)
             description: Fully managed Kubernetes service
+            pricing_url: https://cloud.google.com/kubernetes-engine/pricing
             homepage_url: https://cloud.google.com/kubernetes-engine
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Google Compute Engine
             crunchbase: https://www.crunchbase.com/organization/google-cloud
             description: Customizable compute capacity with global footprint
+            pricing_url: https://cloud.google.com/compute/pricing
             homepage_url: https://cloud.google.com/compute
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
             project: graduated
           - name: Bare Metal Solution
             description: Dedicated bare metal servers for specialized workloads
+            pricing_url: https://cloud.google.com/bare-metal/pricing
             homepage_url: https://cloud.google.com/bare-metal
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Preemptible VMs
             description: Short-lived compute instances at reduced cost
+            pricing_url: https://cloud.google.com/compute/docs/instances/preemptible
             homepage_url: https://cloud.google.com/compute/docs/instances/preemptible
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Shielded VMs
             description: VMs with hardened security controls
+            pricing_url: https://cloud.google.com/compute/shielded-vm
             homepage_url: https://cloud.google.com/compute/shielded-vm
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Sole-tenant Nodes
             description: Dedicated physical servers for your exclusive use
+            pricing_url: https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
             homepage_url: https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: VMware Engine
             description: Run VMware workloads on Google Cloud
+            pricing_url: https://cloud.google.com/vmware-engine/pricing
             homepage_url: https://cloud.google.com/vmware-engine
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
@@ -878,20 +923,24 @@ categories:
         items:
           - name: Cloud Filestore
             description: Managed NFS file storage
+            pricing_url: https://cloud.google.com/filestore/pricing
             homepage_url: https://cloud.google.com/filestore
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Cloud Storage
             crunchbase: https://www.crunchbase.com/organization/google-cloud
             description: Unified object storage service
+            pricing_url: https://cloud.google.com/storage/pricing
             homepage_url: https://cloud.google.com/storage
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
             project: graduated
           - name: Persistent Disk
             description: High-performance block storage
+            pricing_url: https://cloud.google.com/persistent-disk/pricing
             homepage_url: https://cloud.google.com/persistent-disk
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
           - name: Local SSD
             description: High-speed local storage for compute instances
+            pricing_url: https://cloud.google.com/compute/docs/disks/local-ssd
             homepage_url: https://cloud.google.com/compute/docs/disks/local-ssd
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
@@ -1303,6 +1352,130 @@ categories:
             homepage_url: https://cloud.google.com/asset-inventory
             logo: https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d3ac4194e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.svg
 
+  - name: Oracle Cloud Infrastructure
+    subcategories:
+      - name: Compute Services
+        items:
+          - name: Compute Instances
+            description: Scalable compute instances with flexible sizing
+            pricing_url: https://www.oracle.com/cloud/price-list/
+            homepage_url: https://www.oracle.com/cloud/compute/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Container Engine for Kubernetes
+            description: Managed Kubernetes service on OCI
+            homepage_url: https://www.oracle.com/cloud/kubernetes/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Functions
+            description: Serverless compute service
+            homepage_url: https://www.oracle.com/cloud/functions/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Bare Metal Compute
+            description: Dedicated bare metal servers
+            homepage_url: https://www.oracle.com/cloud/bare-metal/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: Storage Services
+        items:
+          - name: Object Storage
+            description: Scalable object storage service
+            homepage_url: https://www.oracle.com/cloud/storage/object-storage/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Block Storage
+            description: High-performance block storage
+            homepage_url: https://www.oracle.com/cloud/storage/block-storage/
+            logo: https://www.oracle.com/favicon.ico
+          - name: File Storage
+            description: Network file storage service
+            homepage_url: https://www.oracle.com/cloud/storage/file-storage/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Archive Storage
+            description: Long-term data archival storage
+            homepage_url: https://www.oracle.com/cloud/storage/archive-storage/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: Database Services
+        items:
+          - name: Autonomous Database
+            description: Self-driving database service
+            homepage_url: https://www.oracle.com/cloud/database/autonomous-database/
+            logo: https://www.oracle.com/favicon.ico
+          - name: MySQL Database Service
+            description: Managed MySQL database
+            homepage_url: https://www.oracle.com/cloud/database/mysql/
+            logo: https://www.oracle.com/favicon.ico
+          - name: NoSQL Database
+            description: Fully managed NoSQL database service
+            homepage_url: https://www.oracle.com/cloud/database/nosql/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Database as a Service
+            description: Managed relational database
+            homepage_url: https://www.oracle.com/cloud/database/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: Analytics Services
+        items:
+          - name: BigData Service
+            description: Managed big data analytics
+            homepage_url: https://www.oracle.com/cloud/bigdata/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Data Integration
+            description: Cloud data integration service
+            homepage_url: https://www.oracle.com/cloud/data-integration/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Analytics Cloud
+            description: Enterprise analytics and BI platform
+            homepage_url: https://www.oracle.com/cloud/analytics/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: AI/ML Services
+        items:
+          - name: Data Science Service
+            description: Managed machine learning platform
+            homepage_url: https://www.oracle.com/cloud/data-science/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Anomaly Detection
+            description: Detect anomalies in data
+            homepage_url: https://www.oracle.com/cloud/anomaly-detection/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Document Understanding
+            description: AI-powered document processing
+            homepage_url: https://www.oracle.com/cloud/document-understanding/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: Networking & Content Delivery
+        items:
+          - name: Virtual Cloud Network
+            description: Isolated virtual network
+            homepage_url: https://www.oracle.com/cloud/networking/vcn/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Load Balancer
+            description: Network load balancing service
+            homepage_url: https://www.oracle.com/cloud/networking/load-balancer/
+            logo: https://www.oracle.com/favicon.ico
+          - name: FastConnect
+            description: Dedicated network connection
+            homepage_url: https://www.oracle.com/cloud/networking/fastconnect/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Content Delivery Network
+            description: Global content delivery service
+            homepage_url: https://www.oracle.com/cloud/cdn/
+            logo: https://www.oracle.com/favicon.ico
+
+      - name: Data Integration & Migration
+        items:
+          - name: Data Transfer Service
+            description: Large-scale data transfer
+            homepage_url: https://www.oracle.com/cloud/data-transfer/
+            logo: https://www.oracle.com/favicon.ico
+          - name: Database Migration Service
+            description: Migrate databases to OCI
+            homepage_url: https://www.oracle.com/cloud/database-migration/
+            logo: https://www.oracle.com/favicon.ico
+          - name: GoldenGate
+            description: Real-time data replication
+            homepage_url: https://www.oracle.com/middleware/goldengate/
+            logo: https://www.oracle.com/favicon.ico
+
       - name: OCI Applications
         items:
           - name: Oracle Cloud Marketplace
@@ -1345,6 +1518,90 @@ categories:
             description: Enterprise integration platform as a service
             homepage_url: https://www.oracle.com/integration/
             logo: https://www.oracle.com/favicon.ico
+
+  - name: IBM Cloud
+    subcategories:
+      - name: Compute Services
+        items:
+          - name: Virtual Servers
+            description: Scalable virtual machines on demand
+            pricing_url: https://www.ibm.com/cloud/virtual-servers/pricing
+            homepage_url: https://www.ibm.com/cloud/virtual-servers
+            logo: https://www.ibm.com/favicon.ico
+          - name: Kubernetes Service
+            description: Managed Kubernetes cluster service
+            homepage_url: https://www.ibm.com/cloud/kubernetes-service
+            logo: https://www.ibm.com/favicon.ico
+          - name: Functions
+            description: Serverless computing service
+            homepage_url: https://www.ibm.com/cloud/functions
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Storage Services
+        items:
+          - name: Object Storage
+            description: Scalable cloud object storage
+            homepage_url: https://www.ibm.com/cloud/object-storage
+            logo: https://www.ibm.com/favicon.ico
+          - name: Block Storage
+            description: Persistent block storage volumes
+            homepage_url: https://www.ibm.com/cloud/block-storage
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Database Services
+        items:
+          - name: Databases for PostgreSQL
+            description: Managed PostgreSQL database
+            homepage_url: https://www.ibm.com/cloud/databases-for-postgresql
+            logo: https://www.ibm.com/favicon.ico
+          - name: Databases for MySQL
+            description: Managed MySQL database
+            homepage_url: https://www.ibm.com/cloud/databases-for-mysql
+            logo: https://www.ibm.com/favicon.ico
+          - name: Databases for MongoDB
+            description: Managed MongoDB database
+            homepage_url: https://www.ibm.com/cloud/databases-for-mongodb
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Analytics Services
+        items:
+          - name: Analytics Engine
+            description: Apache Spark analytics service
+            homepage_url: https://www.ibm.com/cloud/analytics-engine
+            logo: https://www.ibm.com/favicon.ico
+          - name: Db2 Warehouse
+            description: Cloud data warehouse
+            homepage_url: https://www.ibm.com/cloud/db2-warehouse
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: AI/ML Services
+        items:
+          - name: Watson Machine Learning
+            description: Build and deploy machine learning models
+            homepage_url: https://www.ibm.com/cloud/machine-learning
+            logo: https://www.ibm.com/favicon.ico
+          - name: Watson Assistant
+            description: Build conversational AI assistants
+            homepage_url: https://www.ibm.com/cloud/watson-assistant
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Networking & Content Delivery
+        items:
+          - name: Virtual Private Cloud
+            description: Isolated virtual network
+            homepage_url: https://www.ibm.com/cloud/vpc
+            logo: https://www.ibm.com/favicon.ico
+          - name: Load Balancer
+            description: Load balancing service
+            homepage_url: https://www.ibm.com/cloud/load-balancer
+            logo: https://www.ibm.com/favicon.ico
+
+      - name: Data Integration & Migration
+        items:
+          - name: Data Integration
+            description: Data integration and ETL service
+            homepage_url: https://www.ibm.com/cloud/data-integration
+            logo: https://www.ibm.com/favicon.ico
 
       - name: IBM Applications
         items:
@@ -1395,6 +1652,7 @@ categories:
         items:
           - name: VMware vSphere
             description: Enterprise virtualization platform for server consolidation
+            pricing_url: https://www.vmware.com/products/vsphere/pricing.html
             homepage_url: https://www.vmware.com/products/vsphere.html
             logo: https://www.broadcom.com/favicon.ico
           - name: VMware vCloud Director
